@@ -1,0 +1,5 @@
+[
+  { "code": "la", "name": "Latin", "iso639_1": "la", "iso639_3": "lat", "family": "Italic" },
+  { "code": "sa", "name": "Sanskrit", "iso639_1": "sa", "iso639_3": "san", "family": "Indo-Aryan" },
+  { "code": "en", "name": "English", "iso639_1": "en", "iso639_3": "eng", "family": "Germanic" }
+]

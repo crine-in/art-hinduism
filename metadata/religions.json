@@ -1,0 +1,11 @@
+[
+  { "id": "hinduism", "name": "Hinduism", "repository": "art-hinduism" },
+  { "id": "buddhism", "name": "Buddhism", "repository": "art-buddhism" },
+  { "id": "jainism", "name": "Jainism", "repository": "art-jainism" },
+  { "id": "sikhism", "name": "Sikhism", "repository": "art-sikhism" },
+  { "id": "christianity", "name": "Christianity", "repository": "art-christianity" },
+  { "id": "islam", "name": "Islam", "repository": "art-islam" },
+  { "id": "judaism", "name": "Judaism", "repository": "art-judaism" },
+  { "id": "zoroastrianism", "name": "Zoroastrianism", "repository": "art-zoroastrianism" },
+  { "id": "generic", "name": "Generic Example", "repository": "art-template" }
+]

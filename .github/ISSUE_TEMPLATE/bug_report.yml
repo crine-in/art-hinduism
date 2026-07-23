@@ -1,0 +1,19 @@
+name: Bug Report
+description: Report a broken validation script, malformed JSON, or schema issue
+title: "[BUG]: "
+labels: ["bug", "triage"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: Describe what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to Reproduce
+      description: What steps or commands lead to the failure?
+    validations:
+      required: true

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "trans:generic:example-collection:example-book:1.1:en:crine",
+    "verseId": "generic:example-collection:example-book:1.1",
+    "targetLanguage": "English",
+    "translator": "CRINE Open Archive Team",
+    "year": 2026,
+    "text": "Through harmony small things grow, through discord the greatest things decay.",
+    "notes": "Classical proverb translation.",
+    "license": "Public Domain",
+    "source": "Fictional Demonstration Translation"
+  },
+  {
+    "id": "trans:generic:example-collection:example-book:1.2:en:crine",
+    "verseId": "generic:example-collection:example-book:1.2",
+    "targetLanguage": "English",
+    "translator": "CRINE Open Archive Team",
+    "year": 2026,
+    "text": "Truth shall set you free and wisdom shall bring peace.",
+    "notes": "Demonstration translation.",
+    "license": "Public Domain",
+    "source": "Fictional Demonstration Translation"
+  },
+  {
+    "id": "trans:generic:example-collection:example-book:1.3:en:crine",
+    "verseId": "generic:example-collection:example-book:1.3",
+    "targetLanguage": "English",
+    "translator": "CRINE Open Archive Team",
+    "year": 2026,
+    "text": "Love and knowledge sustain the world.",
+    "notes": "Demonstration translation.",
+    "license": "Public Domain",
+    "source": "Fictional Demonstration Translation"
+  }
+]

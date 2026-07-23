@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/crine-in/all-religious-texts/main/schemas/metadata.schema.json",
+  "title": "Dataset Metadata",
+  "type": "object",
+  "required": [
+    "title",
+    "religion",
+    "collection",
+    "language",
+    "script",
+    "license",
+    "source",
+    "provenance",
+    "retrievalDate"
+  ],
+  "properties": {
+    "title": { "type": "string" },
+    "originalTitle": { "type": ["string", "null"] },
+    "religion": { "type": "string" },
+    "collection": { "type": "string" },
+    "book": { "type": ["string", "null"] },
+    "language": { "type": "string" },
+    "script": { "type": "string" },
+    "translator": { "type": ["string", "null"] },
+    "editor": { "type": ["string", "null"] },
+    "edition": { "type": ["string", "null"] },
+    "license": { "type": "string" },
+    "licenseUrl": { "type": ["string", "null"] },
+    "source": { "type": "string" },
+    "sourceUrl": { "type": ["string", "null"] },
+    "provenance": { "type": "string" },
+    "retrievalDate": { "type": "string" },
+    "checksum": { "type": ["string", "null"] },
+    "verseCount": { "type": ["integer", "null"] },
+    "lastUpdated": { "type": ["string", "null"] }
+  },
+  "additionalProperties": false
+}

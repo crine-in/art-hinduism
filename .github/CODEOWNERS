@@ -1,0 +1,6 @@
+# Default owners
+*       @crine-in/core-maintainers
+
+# Schemas and Registries
+/schemas/   @crine-in/schema-architects
+/metadata/  @crine-in/schema-architects

@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "art-template"
+version = "1.0.0"
+description = "Official repository template for All Religious Texts (ART) dataset repositories."
+authors = [{ name = "CRINE", email = "dev@crine.in" }]
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+    "jsonschema>=4.18.0",
+    "pyyaml>=6.0.1"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+pythonpath = [".", "tools", "validators", "scripts"]
+
+[tool.pyright]
+extraPaths = ["tools", "validators", "scripts"]
+
+[tool.black]
+line-length = 120
+target-version = ['py310']

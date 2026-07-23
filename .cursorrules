@@ -1,0 +1,9 @@
+# Cursor AI Rules for art-template
+
+# Project Context
+This repo is the official starter template for All Religious Texts (ART) dataset repositories by CRINE (www.crine.in).
+
+# Key Rules
+1. Templates live in templates/, schemas in schemas/, validators in validators/.
+2. Run `python3 validators/run_all.py` after editing schemas, tooling, or templates.
+3. Follow PEP 8 and Black formatting for Python.

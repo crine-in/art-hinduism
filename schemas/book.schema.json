@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/crine-in/all-religious-texts/main/schemas/book.schema.json",
+  "title": "Book",
+  "type": "object",
+  "required": ["id", "title", "religion", "collection", "originalLanguage", "license"],
+  "properties": {
+    "id": { "type": "string" },
+    "title": { "type": "string" },
+    "originalTitle": { "type": ["string", "null"] },
+    "alternateTitles": { "type": "array", "items": { "type": "string" } },
+    "religion": { "type": "string" },
+    "collection": { "type": "string" },
+    "originalLanguage": { "type": "string" },
+    "originalScript": { "type": ["string", "null"] },
+    "author": { "type": ["string", "null"] },
+    "traditionalAttribution": { "type": ["string", "null"] },
+    "estimatedDate": { "type": ["string", "null"] },
+    "era": { "type": ["string", "null"] },
+    "originPlace": { "type": ["string", "null"] },
+    "totalChapters": { "type": ["integer", "null"] },
+    "totalVerses": { "type": ["integer", "null"] },
+    "canonicalStatus": { "type": ["string", "null"] },
+    "license": { "type": "string" },
+    "sourceUrl": { "type": ["string", "null"] },
+    "checksum": { "type": ["string", "null"] }
+  },
+  "additionalProperties": false
+}

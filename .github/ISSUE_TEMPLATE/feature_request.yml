@@ -1,0 +1,19 @@
+name: Feature Request
+description: Suggest an enhancement or new tooling capability
+title: "[FEATURE]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Motivation
+      description: Describe the problem or missing capability.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Describe your proposed feature.
+    validations:
+      required: true

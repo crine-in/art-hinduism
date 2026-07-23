@@ -1,0 +1,5 @@
+[
+  { "code": "Latn", "name": "Latin Script", "iso15924": "Latn", "direction": "ltr" },
+  { "code": "Deva", "name": "Devanagari", "iso15924": "Deva", "direction": "ltr" },
+  { "code": "IAST", "name": "International Alphabet of Sanskrit Transliteration", "iso15924": "Latn", "direction": "ltr" }
+]

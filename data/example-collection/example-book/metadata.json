@@ -1,0 +1,21 @@
+{
+  "title": "Example Book of Harmony",
+  "originalTitle": "Liber Harmoniae",
+  "religion": "Generic",
+  "collection": "Example Collection",
+  "book": "Example Book of Harmony",
+  "language": "Latin",
+  "script": "Latn",
+  "translator": "CRINE Open Archive Team",
+  "editor": "Digital Archivist",
+  "edition": "Template Reference Edition",
+  "license": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "Fictional Open Source Example",
+  "sourceUrl": "https://www.crine.in",
+  "provenance": "Created as a fictional demonstration dataset for the art-template repository.",
+  "retrievalDate": "2026-07-23",
+  "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "verseCount": 3,
+  "lastUpdated": "2026-07-23T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+name: Proposal for New Scripture Dataset
+description: Propose adding a new scripture, treatise, or translation to this repository
+title: "[NEW SCRIPTURE]: "
+labels: ["dataset-proposal"]
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: Scripture Details
+      description: Title, Collection, Language, Script, and Translator.
+    validations:
+      required: true
+  - type: textarea
+    id: copyright
+    attributes:
+      label: License & Source URL
+      description: Is the source text in the Public Domain or under an open CC license? Provide link.
+    validations:
+      required: true

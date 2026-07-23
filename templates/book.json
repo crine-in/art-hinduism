@@ -1,0 +1,21 @@
+{
+  "id": "religion:collection:book-name",
+  "title": "Book Title",
+  "originalTitle": "Original Language Title",
+  "alternateTitles": ["Alternate Title 1", "Alternate Title 2"],
+  "religion": "Religion Name",
+  "collection": "Collection Name",
+  "originalLanguage": "Sanskrit",
+  "originalScript": "Devanagari",
+  "author": "Traditional Attributed Author",
+  "traditionalAttribution": "Traditional School / Lineage",
+  "estimatedDate": "500 BCE",
+  "era": "BCE",
+  "originPlace": "Ancient Place",
+  "totalChapters": 10,
+  "totalVerses": 100,
+  "canonicalStatus": "Canonical",
+  "license": "Public Domain",
+  "sourceUrl": "https://example.org/book",
+  "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/crine-in/all-religious-texts/main/schemas/commentary.schema.json",
+  "title": "Commentary",
+  "type": "object",
+  "required": ["id", "verseId", "commentator", "text", "language", "license"],
+  "properties": {
+    "id": { "type": "string" },
+    "verseId": { "type": "string" },
+    "commentator": { "type": "string" },
+    "school": { "type": ["string", "null"] },
+    "language": { "type": "string" },
+    "script": { "type": ["string", "null"] },
+    "text": { "type": "string" },
+    "license": { "type": "string" },
+    "source": { "type": ["string", "null"] }
+  },
+  "additionalProperties": false
+}

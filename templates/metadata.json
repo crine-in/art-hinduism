@@ -1,0 +1,21 @@
+{
+  "title": "Scripture Title",
+  "originalTitle": "Original Title in Source Language",
+  "religion": "Religion Name",
+  "collection": "Collection Name",
+  "book": "Book Name",
+  "language": "Language",
+  "script": "Script Code (e.g. Deva, IAST, Arab, Latn)",
+  "translator": "Translator Name (if translated edition)",
+  "editor": "Editor / Scholar Name",
+  "edition": "Standard Critical Edition",
+  "license": "Public Domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "Source Digital Archive / Press Name",
+  "sourceUrl": "https://example.org/source",
+  "provenance": "Details of digitization, transcription, and validation.",
+  "retrievalDate": "2026-07-23",
+  "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "verseCount": 100,
+  "lastUpdated": "2026-07-23T00:00:00Z"
+}

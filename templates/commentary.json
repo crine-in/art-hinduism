@@ -1,0 +1,11 @@
+{
+  "id": "comm:religion:collection:book:1.1.1:commentator",
+  "verseId": "religion:collection:book:1.1.1",
+  "commentator": "Commentator Name",
+  "school": "School / Lineage Name",
+  "language": "Sanskrit",
+  "script": "IAST",
+  "text": "Exegesis and commentary text goes here.",
+  "license": "Public Domain",
+  "source": "Commentary Edition Source"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "trans:religion:collection:book:1.1.1:en:translator",
+  "verseId": "religion:collection:book:1.1.1",
+  "targetLanguage": "English",
+  "translator": "Translator Full Name",
+  "year": 1900,
+  "text": "English translation text goes here.",
+  "notes": "Translator note if any.",
+  "license": "Public Domain",
+  "source": "Translation Source Archive"
+}

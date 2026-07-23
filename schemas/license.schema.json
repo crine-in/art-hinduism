@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/crine-in/all-religious-texts/main/schemas/license.schema.json",
+  "title": "License Definition",
+  "type": "object",
+  "required": ["code", "name", "url", "isPublicDomain", "isOpenAccess"],
+  "properties": {
+    "code": { "type": "string" },
+    "name": { "type": "string" },
+    "url": { "type": "string" },
+    "isPublicDomain": { "type": "boolean" },
+    "isOpenAccess": { "type": "boolean" },
+    "spdxId": { "type": ["string", "null"] }
+  },
+  "additionalProperties": false
+}

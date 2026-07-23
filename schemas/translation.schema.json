@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/crine-in/all-religious-texts/main/schemas/translation.schema.json",
+  "title": "Translation",
+  "type": "object",
+  "required": ["id", "verseId", "targetLanguage", "translator", "text", "license"],
+  "properties": {
+    "id": { "type": "string" },
+    "verseId": { "type": "string" },
+    "targetLanguage": { "type": "string" },
+    "translator": { "type": "string" },
+    "year": { "type": ["integer", "null"] },
+    "text": { "type": "string" },
+    "notes": { "type": ["string", "null"] },
+    "license": { "type": "string" },
+    "source": { "type": ["string", "null"] }
+  },
+  "additionalProperties": false
+}
