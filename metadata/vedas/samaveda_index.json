@@ -1,0 +1,171 @@
+{
+  "vedaId": "samaveda",
+  "title": "Sāmaveda-Saṁhitā",
+  "religion": "Hinduism",
+  "collection": "Vedic Canon",
+  "totalMandalas": 10,
+  "totalSuktas": 10,
+  "totalMantras": 1139,
+  "mandalas": [
+    {
+      "mandala": 0,
+      "title": "Prapāṭhaka 0",
+      "totalSuktas": 1,
+      "totalMantras": 65,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Prapāṭhaka 0",
+          "totalMantras": 65,
+          "citationPrefix": "0.1",
+          "verseRange": "0.1 - 0.10",
+          "previewText": "indra jyeṣṭhaṃ na ā bhara ojiṣṭhaṃ pupuri śravaḥ | yaddidhṛkṣema vajrahasta rodasī obhe suśipra paprāḥ ||"
+        }
+      ]
+    },
+    {
+      "mandala": 1,
+      "title": "Prapāṭhaka 1",
+      "totalSuktas": 1,
+      "totalMantras": 96,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Prapāṭhaka 1",
+          "totalMantras": 96,
+          "citationPrefix": "1.1",
+          "verseRange": "1.1 - 1.6",
+          "previewText": "agna ā yāhi vītaye gṛṇāno havyadātaye | ni hotā satsi barhiṣi || tvamagne yajñānāṃ hotā viśveṣāṃ hitaḥ |"
+        }
+      ]
+    },
+    {
+      "mandala": 2,
+      "title": "Prapāṭhaka 2",
+      "totalSuktas": 1,
+      "totalMantras": 97,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Prapāṭhaka 2",
+          "totalMantras": 97,
+          "citationPrefix": "2.1",
+          "verseRange": "2.1 - 2.9",
+          "previewText": "puru tvā dāśivāṃ voce 'riragne tava svidā | todasyeva śaraṇa ā mahasya ||"
+        }
+      ]
+    },
+    {
+      "mandala": 3,
+      "title": "Prapāṭhaka 3",
+      "totalSuktas": 1,
+      "totalMantras": 99,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Prapāṭhaka 3",
+          "totalMantras": 99,
+          "citationPrefix": "3.1",
+          "verseRange": "3.1 - 3.10",
+          "previewText": "uttvā mandantu somāḥ kṛṇuṣva rādho adrivaḥ | ava brahmadviṣo jahi ||"
+        }
+      ]
+    },
+    {
+      "mandala": 4,
+      "title": "Prapāṭhaka 4",
+      "totalSuktas": 1,
+      "totalMantras": 98,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Prapāṭhaka 4",
+          "totalMantras": 98,
+          "citationPrefix": "4.1",
+          "verseRange": "4.1 - 4.10",
+          "previewText": "ima indrāya sunvire somāso dadhyāśiraḥ | tāṃ ā madāya vajrahasta pītaye haribhyāṃ yāhyoka ā ||"
+        }
+      ]
+    },
+    {
+      "mandala": 5,
+      "title": "Prapāṭhaka 5",
+      "totalSuktas": 1,
+      "totalMantras": 96,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Prapāṭhaka 5",
+          "totalMantras": 96,
+          "citationPrefix": "5.1",
+          "verseRange": "5.1 - 5.10",
+          "previewText": "gṛṇe tadindra te śava upamāṃ devatātaye | yaddhaṃsi vṛtramojasā śacīpate ||"
+        }
+      ]
+    },
+    {
+      "mandala": 6,
+      "title": "Prapāṭhaka 6",
+      "totalSuktas": 1,
+      "totalMantras": 201,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Prapāṭhaka 6",
+          "totalMantras": 201,
+          "citationPrefix": "6.1",
+          "verseRange": "6.1 - 6.3",
+          "previewText": "upo ṣu jātamapturaṃ gobhirbhaṅgaṃ pariṣkṛtam | induṃ devā ayāsiṣuḥ ||"
+        }
+      ]
+    },
+    {
+      "mandala": 7,
+      "title": "Prapāṭhaka 7",
+      "totalSuktas": 1,
+      "totalMantras": 128,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Prapāṭhaka 7",
+          "totalMantras": 128,
+          "citationPrefix": "7.1",
+          "verseRange": "7.1 - 7.3",
+          "previewText": "abhi pra gopatiṃ girendramarca yathā vide | mūnuṃ satyasya satpatim ||"
+        }
+      ]
+    },
+    {
+      "mandala": 8,
+      "title": "Prapāṭhaka 8",
+      "totalSuktas": 1,
+      "totalMantras": 148,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Prapāṭhaka 8",
+          "totalMantras": 148,
+          "citationPrefix": "8.1",
+          "verseRange": "8.1 - 8.4",
+          "previewText": "viśvebhiragne agnibhirimaṃ yajñamidaṃ vacaḥ | cano ghāḥ sahasā yaho ||"
+        }
+      ]
+    },
+    {
+      "mandala": 9,
+      "title": "Prapāṭhaka 9",
+      "totalSuktas": 1,
+      "totalMantras": 111,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Prapāṭhaka 9",
+          "totalMantras": 111,
+          "citationPrefix": "9.1",
+          "verseRange": "9.1 - 9.3",
+          "previewText": "prāsya dhārā akṣaranvṛṣṇaḥ sutasyaujasā | devāṃ anu prabhūṣataḥ ||"
+        }
+      ]
+    }
+  ]
+}

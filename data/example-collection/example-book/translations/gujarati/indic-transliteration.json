@@ -1,0 +1,46 @@
+{
+  "id": "trans:generic:example-collection:example-book:gujr:indic-transliteration",
+  "bookId": "example-book",
+  "title": "Example Book of Harmony",
+  "religion": "Generic",
+  "collection": "Example Collection",
+  "book": "Example Book of Harmony",
+  "targetLanguage": "Sanskrit (Gujarati)",
+  "targetScript": "Gujr",
+  "translator": "indic-transliteration",
+  "year": 2026,
+  "license": "Public Domain",
+  "source": "Auto-transliterated from IAST using indic-transliteration library (Fictional Demonstration Corpus)",
+  "totalChapters": 1,
+  "totalVerses": 3,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Chapter 1",
+      "totalVerses": 3,
+      "verses": [
+        {
+          "verseId": "generic:example-collection:example-book:1.1",
+          "verse": 1,
+          "citation": "1.1",
+          "text": "ચોન્ચોર્દિઅ પર્વએ રેસ્ ચ્રેસ્ચુન્ત્, દિસ્ચોર્દિઅ મxઇમએ દિલબુન્તુર્.",
+          "notes": null
+        },
+        {
+          "verseId": "generic:example-collection:example-book:1.2",
+          "verse": 2,
+          "citation": "1.2",
+          "text": "વેરિતસ્ વોસ્ લિબેરબિત્ એત્ સપિએન્તિઅ પચેમ્ ફ઼ેરેત્.",
+          "notes": null
+        },
+        {
+          "verseId": "generic:example-collection:example-book:1.3",
+          "verse": 3,
+          "citation": "1.3",
+          "text": "અમોર્ એત્ સ્ચિએન્તિઅ મુન્દુમ્ સુસ્તિનેન્ત્.",
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

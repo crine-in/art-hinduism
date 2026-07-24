@@ -1,5 +1,15 @@
 [
   { "code": "Latn", "name": "Latin Script", "iso15924": "Latn", "direction": "ltr" },
   { "code": "Deva", "name": "Devanagari", "iso15924": "Deva", "direction": "ltr" },
-  { "code": "IAST", "name": "International Alphabet of Sanskrit Transliteration", "iso15924": "Latn", "direction": "ltr" }
+  { "code": "IAST", "name": "International Alphabet of Sanskrit Transliteration", "iso15924": "Latn", "direction": "ltr" },
+  { "code": "Beng", "name": "Bengali", "iso15924": "Beng", "direction": "ltr" },
+  { "code": "Gran", "name": "Grantha", "iso15924": "Gran", "direction": "ltr" },
+  { "code": "Gujr", "name": "Gujarati", "iso15924": "Gujr", "direction": "ltr" },
+  { "code": "Guru", "name": "Gurmukhi", "iso15924": "Guru", "direction": "ltr" },
+  { "code": "Knda", "name": "Kannada", "iso15924": "Knda", "direction": "ltr" },
+  { "code": "Mlym", "name": "Malayalam", "iso15924": "Mlym", "direction": "ltr" },
+  { "code": "Orya", "name": "Odia", "iso15924": "Orya", "direction": "ltr" },
+  { "code": "Srbc", "name": "Sharada", "iso15924": "Srbc", "direction": "ltr" },
+  { "code": "Telu", "name": "Telugu", "iso15924": "Telu", "direction": "ltr" },
+  { "code": "Taml", "name": "Tamil", "iso15924": "Taml", "direction": "ltr" }
 ]

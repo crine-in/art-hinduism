@@ -7,7 +7,6 @@
   "required": [
     "id",
     "externalId",
-    "chapter",
     "verse",
     "citation",
     "text"

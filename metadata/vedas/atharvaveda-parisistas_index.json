@@ -1,0 +1,27 @@
+{
+  "vedaId": "atharvaveda-parisistas",
+  "title": "Atharvaveda-Pariśiṣṭas",
+  "religion": "Hinduism",
+  "collection": "Vedic Canon",
+  "totalMandalas": 1,
+  "totalSuktas": 1,
+  "totalMantras": 45,
+  "mandalas": [
+    {
+      "mandala": 1,
+      "title": "Atharvaveda-Pariśiṣṭas",
+      "totalSuktas": 1,
+      "totalMantras": 45,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Atharvaveda-Pariśiṣṭas",
+          "totalMantras": 45,
+          "citationPrefix": "1.1",
+          "verseRange": "1.1 - 1.45",
+          "previewText": "(AVParis_1,12.2) etāny evāsmai nakṣatrāṇi śriyaṃ bhūtiṃ puṣṭiṃ prajāṃ paśūn annam annādyaṃ samindhata iti veda (AVPar..."
+        }
+      ]
+    }
+  ]
+}

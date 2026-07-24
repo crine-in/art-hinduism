@@ -1,0 +1,21 @@
+{
+  "title": "Paippalāda-Saṁhitā",
+  "originalTitle": "Paippalāda-Saṁhitā",
+  "religion": "Hinduism",
+  "collection": "Vedic Canon",
+  "book": "Paippalāda-Saṁhitā",
+  "language": "Sanskrit",
+  "script": "IAST",
+  "translator": null,
+  "editor": "GRETIL Critical TEI Archive",
+  "edition": "GRETIL Critical Edition",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "source": "GRETIL Archive (sa_paippalAdasaMhitA.xml)",
+  "sourceUrl": "http://gretil.sub.uni-goettingen.de/",
+  "provenance": "Parsed from GRETIL TEI XML file sa_paippalAdasaMhitA.xml with VedaParser preserving single and double dandas (| and ||).",
+  "retrievalDate": "2026-07-24",
+  "checksum": "662e3c4de412be6c09d9734b131a753eaba6b22a2f26dfbb8b09a8a9eafaeda3",
+  "verseCount": 7488,
+  "lastUpdated": "2026-07-24T15:08:37Z"
+}

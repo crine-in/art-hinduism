@@ -1,0 +1,21 @@
+{
+  "title": "Ṛgveda-Saṁhitā",
+  "originalTitle": "Ṛgveda-Saṁhitā",
+  "religion": "Hinduism",
+  "collection": "Vedic Canon",
+  "book": "Ṛgveda-Saṁhitā",
+  "language": "Sanskrit",
+  "script": "IAST",
+  "translator": null,
+  "editor": "GRETIL Critical TEI Archive",
+  "edition": "GRETIL Critical Edition",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "source": "GRETIL Archive (sa_Rgveda-edAufrecht.xml)",
+  "sourceUrl": "http://gretil.sub.uni-goettingen.de/",
+  "provenance": "Parsed from GRETIL TEI XML file sa_Rgveda-edAufrecht.xml with VedaParser preserving single and double dandas (| and ||).",
+  "retrievalDate": "2026-07-24",
+  "checksum": "18c0a0215d209cb4df19a445bb75ced55f27eb69e5374bf06e2805e98e1a696c",
+  "verseCount": 10552,
+  "lastUpdated": "2026-07-24T15:08:36Z"
+}

@@ -1,0 +1,27 @@
+{
+  "vedaId": "vedanga-jyotisa",
+  "title": "Vedāṅga-Jyotiṣa",
+  "religion": "Hinduism",
+  "collection": "Vedic Canon",
+  "totalMandalas": 1,
+  "totalSuktas": 1,
+  "totalMantras": 35,
+  "mandalas": [
+    {
+      "mandala": 1,
+      "title": "Vedāṅga-Jyotiṣa",
+      "totalSuktas": 1,
+      "totalMantras": 35,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Vedāṅga-Jyotiṣa",
+          "totalMantras": 35,
+          "citationPrefix": "1.1",
+          "verseRange": "1.1 - 1.35",
+          "previewText": "pañcasaṃvatsaramayaṃ yugādhyakṣaṃ prajāpatim / dinartvayanam āsāṅgaṃ praṇamya śirasā śuciḥ // 1 ||"
+        }
+      ]
+    }
+  ]
+}

@@ -38,5 +38,30 @@
     "id": "kavya-literature",
     "name": "Kāvya & Literature",
     "religion": "Hinduism"
+  },
+  {
+    "id": "vaisnava-agamas-tantras",
+    "name": "Vaiṣṇava Āgamas & Tantras",
+    "religion": "Hinduism"
+  },
+  {
+    "id": "puranas",
+    "name": "Purāṇas",
+    "religion": "Hinduism"
+  },
+  {
+    "id": "saiva-agamas-tantras",
+    "name": "Śaiva Āgamas & Tantras",
+    "religion": "Hinduism"
+  },
+  {
+    "id": "general-scripture",
+    "name": "General Scripture",
+    "religion": "Hinduism"
+  },
+  {
+    "id": "jaina-canon",
+    "name": "Jaina Canon",
+    "religion": "Hinduism"
   }
 ]

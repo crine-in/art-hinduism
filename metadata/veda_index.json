@@ -1,0 +1,63 @@
+{
+  "title": "ART Vedic Literature Master Index",
+  "religion": "Hinduism",
+  "collection": "Vedic Canon",
+  "structurePattern": "Mandala/Kanda -> Sukta/Hymn -> Mantra/Verse",
+  "totalVedas": 4,
+  "totalVerses": 19214,
+  "lastUpdated": "2026-07-24T15:08:37Z",
+  "vedas": [
+    {
+      "id": "rigveda",
+      "title": "Ṛgveda-Saṁhitā",
+      "slug": "rigveda",
+      "subIndex": "metadata/vedas/rigveda_index.json",
+      "dataPath": "data/vedic-canon/rigveda/original.json",
+      "metadataPath": "data/vedic-canon/rigveda/metadata.json",
+      "totalMandalas": 10,
+      "totalSuktas": 1028,
+      "totalMantras": 10552,
+      "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+      "source": "GRETIL Archive (sa_Rgveda-edAufrecht.xml)"
+    },
+    {
+      "id": "samaveda",
+      "title": "Sāmaveda-Saṁhitā",
+      "slug": "samaveda",
+      "subIndex": "metadata/vedas/samaveda_index.json",
+      "dataPath": "data/vedic-canon/samaveda/original.json",
+      "metadataPath": "data/vedic-canon/samaveda/metadata.json",
+      "totalMandalas": 10,
+      "totalSuktas": 10,
+      "totalMantras": 1139,
+      "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+      "source": "GRETIL Archive (sa_sAmavedasaMhitA.xml)"
+    },
+    {
+      "id": "atharvaveda-paippalada",
+      "title": "Paippalāda-Saṁhitā",
+      "slug": "atharvaveda-paippalada",
+      "subIndex": "metadata/vedas/atharvaveda-paippalada_index.json",
+      "dataPath": "data/vedic-canon/atharvaveda-paippalada/original.json",
+      "metadataPath": "data/vedic-canon/atharvaveda-paippalada/metadata.json",
+      "totalMandalas": 20,
+      "totalSuktas": 158,
+      "totalMantras": 7488,
+      "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+      "source": "GRETIL Archive (sa_paippalAdasaMhitA.xml)"
+    },
+    {
+      "id": "vedanga-jyotisa",
+      "title": "Vedāṅga-Jyotiṣa",
+      "slug": "vedanga-jyotisa",
+      "subIndex": "metadata/vedas/vedanga-jyotisa_index.json",
+      "dataPath": "data/vedic-canon/vedanga-jyotisa/original.json",
+      "metadataPath": "data/vedic-canon/vedanga-jyotisa/metadata.json",
+      "totalMandalas": 1,
+      "totalSuktas": 1,
+      "totalMantras": 35,
+      "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+      "source": "GRETIL Archive (sa_lagadha-RgvedavedAGgajyotiSa.xml)"
+    }
+  ]
+}

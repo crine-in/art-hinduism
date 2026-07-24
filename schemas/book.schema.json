@@ -32,12 +32,33 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["number", "verses"],
+        "required": ["number"],
         "properties": {
           "number": { "type": "integer" },
           "title": { "type": ["string", "null"] },
           "type": { "type": ["string", "null"] },
+          "totalSections": { "type": ["integer", "null"] },
           "totalVerses": { "type": ["integer", "null"] },
+          "sections": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["number", "verses"],
+              "properties": {
+                "number": { "type": "integer" },
+                "title": { "type": ["string", "null"] },
+                "type": { "type": ["string", "null"] },
+                "totalVerses": { "type": ["integer", "null"] },
+                "verses": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "verse.schema.json"
+                  }
+                }
+              },
+              "additionalProperties": false
+            }
+          },
           "verses": {
             "type": "array",
             "items": {

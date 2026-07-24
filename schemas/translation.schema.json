@@ -2,18 +2,61 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://raw.githubusercontent.com/crine-in/all-religious-texts/main/schemas/translation.schema.json",
   "title": "Translation",
+  "description": "Nested JSON Schema for a complete translation or script transliteration of a book.",
   "type": "object",
-  "required": ["id", "verseId", "targetLanguage", "translator", "text", "license"],
+  "required": [
+    "id",
+    "bookId",
+    "targetLanguage",
+    "translator",
+    "license",
+    "chapters"
+  ],
   "properties": {
     "id": { "type": "string" },
-    "verseId": { "type": "string" },
+    "bookId": { "type": "string" },
+    "title": { "type": ["string", "null"] },
+    "religion": { "type": ["string", "null"] },
+    "collection": { "type": ["string", "null"] },
+    "book": { "type": ["string", "null"] },
     "targetLanguage": { "type": "string" },
+    "targetScript": { "type": ["string", "null"] },
     "translator": { "type": "string" },
     "year": { "type": ["integer", "null"] },
-    "text": { "type": "string" },
-    "notes": { "type": ["string", "null"] },
     "license": { "type": "string" },
-    "source": { "type": ["string", "null"] }
+    "source": { "type": ["string", "null"] },
+    "totalChapters": { "type": ["integer", "null"] },
+    "totalVerses": { "type": ["integer", "null"] },
+    "chapters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["number", "verses"],
+        "properties": {
+          "number": { "type": "integer" },
+          "title": { "type": ["string", "null"] },
+          "totalVerses": { "type": ["integer", "null"] },
+          "verses": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["verseId", "text"],
+              "properties": {
+                "verseId": { "type": "string" },
+                "chapter": { "type": ["integer", "null"] },
+                "verse": { "type": ["integer", "null"] },
+                "citation": { "type": ["string", "null"] },
+                "text": { "type": "string" },
+                "notes": { "type": ["string", "null"] }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
   },
   "additionalProperties": false
 }
+

@@ -1,0 +1,21 @@
+{
+  "title": "Sāmaveda-Saṁhitā",
+  "originalTitle": "Sāmaveda-Saṁhitā",
+  "religion": "Hinduism",
+  "collection": "Vedic Canon",
+  "book": "Sāmaveda-Saṁhitā",
+  "language": "Sanskrit",
+  "script": "IAST",
+  "translator": null,
+  "editor": "GRETIL Critical TEI Archive",
+  "edition": "GRETIL Critical Edition",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "source": "GRETIL Archive (sa_sAmavedasaMhitA.xml)",
+  "sourceUrl": "http://gretil.sub.uni-goettingen.de/",
+  "provenance": "Parsed from GRETIL TEI XML file sa_sAmavedasaMhitA.xml with VedaParser preserving single and double dandas (| and ||).",
+  "retrievalDate": "2026-07-24",
+  "checksum": "316000972d41c38baf8e04b39ffc6d20a695cb790ab8ced3c75a9ced841730e1",
+  "verseCount": 1139,
+  "lastUpdated": "2026-07-24T15:08:36Z"
+}

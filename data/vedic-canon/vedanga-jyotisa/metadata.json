@@ -1,0 +1,21 @@
+{
+  "title": "Vedāṅga-Jyotiṣa",
+  "originalTitle": "Vedāṅga-Jyotiṣa",
+  "religion": "Hinduism",
+  "collection": "Vedic Canon",
+  "book": "Vedāṅga-Jyotiṣa",
+  "language": "Sanskrit",
+  "script": "IAST",
+  "translator": null,
+  "editor": "GRETIL Critical TEI Archive",
+  "edition": "GRETIL Critical Edition",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "source": "GRETIL Archive (sa_lagadha-RgvedavedAGgajyotiSa.xml)",
+  "sourceUrl": "http://gretil.sub.uni-goettingen.de/",
+  "provenance": "Parsed from GRETIL TEI XML file sa_lagadha-RgvedavedAGgajyotiSa.xml with VedaParser preserving single and double dandas (| and ||).",
+  "retrievalDate": "2026-07-24",
+  "checksum": "c813fee78a83d6f9932075e086cb18e30a86fc1cc385dd19f644fbd847bed7ff",
+  "verseCount": 35,
+  "lastUpdated": "2026-07-24T15:08:37Z"
+}

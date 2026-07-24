@@ -1,0 +1,270 @@
+{
+  "id": "trans:hinduism:vedic-canon:vedanga-jyotisa:beng:indic-transliteration",
+  "bookId": "vedanga-jyotisa",
+  "title": "Vedāṅga-Jyotiṣa",
+  "religion": "Hinduism",
+  "collection": "Vedic Canon",
+  "book": "Vedāṅga-Jyotiṣa",
+  "targetLanguage": "Sanskrit (Bengali)",
+  "targetScript": "Beng",
+  "translator": "indic-transliteration",
+  "year": 2026,
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+  "source": "Auto-transliterated from IAST using indic-transliteration library (GRETIL Archive (sa_lagadha-RgvedavedAGgajyotiSa.xml))",
+  "totalChapters": 1,
+  "totalVerses": 35,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Vedāṅga-Jyotiṣa",
+      "totalVerses": 35,
+      "verses": [
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.1",
+          "verse": 1,
+          "citation": "1.1",
+          "text": "পঞ্চসংবত্সরমযং যুগাধ্যক্ষং প্রজাপতিম্ / দিনর্ত্বযনম্ আসাঙ্গং প্রণম্য শিরসা শুচিঃ // ১ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.2",
+          "verse": 2,
+          "citation": "1.2",
+          "text": "প্রণম্য শিরসা কালম্ অভিবাদ্য সরস্বতীম্ / কালজ্ঞানং প্রবক্ষ্যামি লগধস্য মহাত্মনঃ // ২ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.3",
+          "verse": 3,
+          "citation": "1.3",
+          "text": "জ্যোতিষাম্ অযনং কৃত্স্নং প্রবক্ষ্যাম্য্ অনুপূর্বশঃ / বিপ্রাণাং সম্মতং লোকে যজ্ঞকালার্থসিদ্ধযে // ৩ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.4",
+          "verse": 4,
+          "citation": "1.4",
+          "text": "নিরেকং দ্বাদশার্ধাব্দং দ্বিগুণং গতসংজ্ঞিকম্ / ষষ্ট্যা ষষ্ট্যা যুতং দ্বাভ্যাং পর্বণাং রাশির্ উচ্যতে // ৪ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.5",
+          "verse": 5,
+          "citation": "1.5",
+          "text": "স্বর্ আক্রমেতে সোমার্কৌ যদা সাকং সবাসবৌ / স্যাত্ তদাদি যুগং মাঘস্তপঃ শুক্লো ঽযনং হ্য্ উদক্ // ৫ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.6",
+          "verse": 6,
+          "citation": "1.6",
+          "text": "প্রপদ্যেতে শ্রবিষ্ঠাদৌ সূর্যাচন্দ্রমসাব্ উদক্ / সার্পার্ধে দক্ষিণার্কস্ তু মাঘশ্রাবণযোঃ সদা // ৬ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.7",
+          "verse": 7,
+          "citation": "1.7",
+          "text": "ঘর্মবৃদ্ধির্ অপাং প্রস্থঃ ক্ষপাহ্রাস উদগ্গতৌ / দক্ষিণে তৌ বিপর্যাসঃ ষণ্মুহূর্ত্যযনেন তু // ৭ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.8",
+          "verse": 8,
+          "citation": "1.8",
+          "text": "দ্বিগুণং সপ্তমং চাহুর্ অযনাদ্যং ত্রযোদশম্ / চতুর্থং দশমং চ দ্বির্যুগ্মাদ্যং বহুলে ঽপ্য্ ঋতৌ // ৮ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.9",
+          "verse": 9,
+          "citation": "1.9",
+          "text": "বসুস্ ত্বষ্টা ভবো ঽজশ্ চ মিত্রঃ সর্পাশ্বিনৌ জলম্ / ধাতা কশ্ চাযনাদ্যাশ্ চার্থপঞ্চমভস্ ত্ব্ ঋতুঃ // ৯ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.10",
+          "verse": 10,
+          "citation": "1.10",
+          "text": "ভাংশাঃ স্যুর্ অষ্টকাঃ কার্যাঃ পক্ষদ্বাদশকোদ্গতাঃ / একাদশগুণশ্ চোনঃ শুক্লে ঽর্ধং চৈন্দবা যদি // ১০ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.11",
+          "verse": 11,
+          "citation": "1.11",
+          "text": "কার্যা ভাংশাষ্টকস্থানে কলা একান্নবিংশতিঃ / ঊনস্থানে ত্রিসপ্ততিম্ উদ্বপেদ্ ঊনসংমিতাঃ // ১১ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.12",
+          "verse": 12,
+          "citation": "1.12",
+          "text": "ত্র্যংশো ভশেষো দিবসাংশভাগশ্ চতুর্দশশ্ চাপ্য্ অনীয ভিন্নম্ / ভার্ধে ঽধিকে চাপি গতে পরো ঽংশো দ্বাব্ উত্তমৈকং প্নবকৈরবেদ্যম্ // ১২ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.13",
+          "verse": 13,
+          "citation": "1.13",
+          "text": "পক্ষাত্ পঞ্চদশাচ্ চোর্ধ্বং তদ্ভুক্তম্ ইতি নির্দিশেত্ / নবভিস্ তূদ্গতো ঽংশঃ স্যাদ্ ঊনাংশদ্ব্যধিকেন তু // ১৩ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.14",
+          "verse": 14,
+          "citation": "1.14",
+          "text": "জৌ দ্রা ঘঃ খে শ্বে ঽহী রো ষা চিন্ মূ ষ ণ্যঃ সূ মা ধা ণঃ / রে মৃ ঘ্রাঃ স্বা ঽপো ঽজঃ কৃ ষ্যো হ জ্যে ষ্ঠা ইত্তৃক্ষা লিঙ্গৈঃ // ১৪ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.15",
+          "verse": 15,
+          "citation": "1.15",
+          "text": "জাবাদ্যংশৈঃ সমং বিদ্যাত্ পূর্বার্ধে পর্বসূত্তরে / ভাদানং স্যাত্ চতুর্দশ্যাং কাষ্ঠানাং দেবিনা কলাঃ // ১৫ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.16",
+          "verse": 16,
+          "citation": "1.16",
+          "text": "কলা দশ সবিংশা স্যাত্ দ্বে মুহূর্তস্য নাডিকে / দ্যুত্রিংশত্ তত্কলানাং তু ষট্ছতী ত্র্যধিকং ভবেত্ // ১৬ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.17",
+          "verse": 17,
+          "citation": "1.17",
+          "text": "নাডিকে দ্বে মুহূর্তস্ তু পঞ্চাশত্পলম্ আঢকম্ / আঢকাত্ কুম্ভকো দ্রোণঃ কুটপৈর্ বর্ধতে ত্রিভিঃ // ১৭ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.18",
+          "verse": 18,
+          "citation": "1.18",
+          "text": "সসপ্তকং ভযুক্ সোমঃ সূর্যো দ্যূনি ত্রযোদশ / নবভানি চ পঞ্চাহ্নঃ কাষ্ঠাঃ পঞ্চাক্ষরাঃ স্মৃতাঃ // ১৮ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.19",
+          "verse": 19,
+          "citation": "1.19",
+          "text": "শ্রবিষ্ঠাযাং গণাভ্যস্তান্ প্রাগ্বিলগ্নান্ বিনির্দিশেত্ / স্তর্যান্ মাসান্ ষডভ্যস্তান্ বিদ্যাচ্ চান্দ্রমসান্ ঋতুন্ // ১৯ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.20",
+          "verse": 20,
+          "citation": "1.20",
+          "text": "অতীতপর্বভাগেভ্যঃ শোধযেদ্ দ্বিগুণাং তিথিম্ / তেষু মণ্ডলভাগেষু তিথিনিষ্ঠাংগতো রবিঃ // ২০ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.21",
+          "verse": 21,
+          "citation": "1.21",
+          "text": "যাঃ পর্বভাদানকলাস্ তাসু সপ্তগুণাং তিথিম্ / প্রক্ষিপেত্ তত্সমূহস্ তু বিদ্যাদ্ আদানিকীঃ কলাঃ // ২১ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.22",
+          "verse": 22,
+          "citation": "1.22",
+          "text": "যদ্ উত্তরস্যাযনতো গতং স্যাচ্ ছেষং তু যদ্ দক্ষিণতো ঽযনস্য / তদ্ একষষ্ট্যা দ্বিগুণং বিভক্তং সদ্বাদশং স্যাদ্ দিবসপ্রমাণম্ // ২২ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.23",
+          "verse": 23,
+          "citation": "1.23",
+          "text": "যদ্ অর্ধং দিনভাগানাং সদা পর্বণি পর্বণি / ঋতুশেষং তু তদ্ বিদ্যাত্ সংখ্যায সহপর্বণাম্ // ২৩ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.24",
+          "verse": 24,
+          "citation": "1.24",
+          "text": "ইত্য্ উপাযসমুদ্দেশো ভূযো ঽপ্য্ অহ্নঃ প্রকল্পযেত্ / জ্ঞেযরাশিগতাভ্যস্তং বিভজেত্ জ্ঞানরাশিনা // ২৪ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.25",
+          "verse": 25,
+          "citation": "1.25",
+          "text": "অগ্নিঃ প্রজাপতিঃ সোমো রুদ্রো ঽদিতির্ বৃহস্পতিঃ / সর্পাশ্ চ পিতরশ্ চৈব ভগশ্ চৈবার্যমাপি চ // ২৫ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.26",
+          "verse": 26,
+          "citation": "1.26",
+          "text": "সবিতা ত্বষ্টাথ বাযুশ্ চেন্দ্রাগ্নী মিত্র এব চ / ইন্দ্রো নিঋর্তির্ আপো বৈ বিশ্বেদেবাস্ তথৈব চ // ২৬ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.27",
+          "verse": 27,
+          "citation": "1.27",
+          "text": "বিষ্নুর্ বসবো বরুণো ঽজ একপাত্ তথৈব চ / অহির্বুধ্ন্যস্ তথা পূষা অশ্বিনৌ যম এব চ // ২৭ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.28",
+          "verse": 28,
+          "citation": "1.28",
+          "text": "নক্ষত্রদেবতা এতা এতাভির্ যজ্ঞকর্মণি / যজমানস্য শাস্ত্রজ্ঞৈর্ নাম নক্ষত্রজং স্মৃতম্ // ২৮ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.29",
+          "verse": 29,
+          "citation": "1.29",
+          "text": "ইত্য্ এবং মাসবর্ষাণাং মুহূর্তোদযপর্বণাম্ / দিনর্ত্বযনম্ আসাঙ্গং ব্যাখ্যানং লগধো ঽব্রবীত্ // ২৯ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.30",
+          "verse": 30,
+          "citation": "1.30",
+          "text": "সোমসূর্যস্তৃচরিতং লোকং লোকে চ সম্মতিম্ / সোমসূর্যস্তৃচরিতং বিদ্বান্ বেদবিদ্ অশ্নুতে // ৩০ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.31",
+          "verse": 31,
+          "citation": "1.31",
+          "text": "বিষুবং তদ্গুণং দ্বাভ্যাং রূপহীনং তু ষড্গুণম্ / যল্ লব্ধং তানি পর্বাণি তথার্ধং সা তিথির্ ভবেত্ // ৩১ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.32",
+          "verse": 32,
+          "citation": "1.32",
+          "text": "মাঘশুক্লপ্রবৃত্তস্য পৌষকৃষ্নসমাপিনঃ / যুগস্য পঞ্চবর্ষস্য কালজ্ঞানং প্রচক্ষতে // ৩২ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.33",
+          "verse": 33,
+          "citation": "1.33",
+          "text": "তৃতীযাং নবমীং চৈব পৌর্ণমাসীম্ অথাসিতে / ষষ্ঠীং চ বিষুবান্ প্রোক্তো দ্বাদশীং চ সমং ভবেত্ // ৩৩ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.34",
+          "verse": 34,
+          "citation": "1.34",
+          "text": "চতুর্দশীম্ উপবসথস্ তথা ভবেদ্ যথোদিতো দিনম্ উপৈতি চন্দ্রমাঃ / মাঘশুক্লাহ্নিকো যুঙ্ক্তে শ্রবিষ্ঠাযাং চ বার্ষিকীম্ // ৩৪ ॥",
+          "notes": null
+        },
+        {
+          "verseId": "hinduism:vedic-canon:vedanga-jyotisa:1.35",
+          "verse": 35,
+          "citation": "1.35",
+          "text": "যথা শিখা মযূরাণাং নাগানাং মণযো যথা / তদ্বদ্ বেদাঙ্গশাস্ত্রাণাং জ্যোতিষং মূর্ধনি স্থিতম্ // ৩৫ ॥",
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

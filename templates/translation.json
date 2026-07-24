@@ -1,11 +1,33 @@
 {
-  "id": "trans:religion:collection:book:1.1.1:en:translator",
-  "verseId": "religion:collection:book:1.1.1",
+  "id": "trans:religion:collection:book:en:translator",
+  "bookId": "book-slug",
+  "title": "Book Title",
+  "religion": "Religion Name",
+  "collection": "Collection Name",
+  "book": "Book Title",
   "targetLanguage": "English",
+  "targetScript": "Latn",
   "translator": "Translator Full Name",
   "year": 1900,
-  "text": "English translation text goes here.",
-  "notes": "Translator note if any.",
   "license": "Public Domain",
-  "source": "Translation Source Archive"
+  "source": "Translation Source Archive",
+  "totalChapters": 1,
+  "totalVerses": 1,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Chapter 1",
+      "totalVerses": 1,
+      "verses": [
+        {
+          "verseId": "religion:collection:book:1.1",
+          "chapter": 1,
+          "verse": 1,
+          "citation": "1.1",
+          "text": "English translation text goes here.",
+          "notes": "Translator note if any."
+        }
+      ]
+    }
+  ]
 }

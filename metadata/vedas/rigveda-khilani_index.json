@@ -1,0 +1,67 @@
+{
+  "vedaId": "rigveda-khilani",
+  "title": "Ṛgveda-Khilāni",
+  "religion": "Hinduism",
+  "collection": "Vedic Canon",
+  "totalMandalas": 1,
+  "totalSuktas": 6,
+  "totalMantras": 593,
+  "mandalas": [
+    {
+      "mandala": 1,
+      "title": "Mandala 1",
+      "totalSuktas": 6,
+      "totalMantras": 593,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 88,
+          "citationPrefix": "1.1",
+          "verseRange": "1.1.1 - 1.1.8",
+          "previewText": "samaikṣiṣya.ūrdhva.mahasa.ādityena.sahiyasā./ aham.yaśasvinām.yaśo.viśvā.rūpāṇy.ādade./ ||"
+        },
+        {
+          "sukta": 2,
+          "title": "II.Adhyāya .(.Khila, II Anuk.).",
+          "totalMantras": 96,
+          "citationPrefix": "1.2",
+          "verseRange": "1.2.1 - 1.2.1",
+          "previewText": "mā.bibher.na.mariṣyasi.pari.tvā.pāmi.sarvataḥ./ ghanena.hanmi.vṛścikam.ahim.daṇḍena.āgatam./ tvam.agne.dyubhis.tvam.ā..."
+        },
+        {
+          "sukta": 3,
+          "title": "Khila III, Anukramaṇī",
+          "totalMantras": 151,
+          "citationPrefix": "1.3",
+          "verseRange": "1.3.1 - 1.3.10",
+          "previewText": "abhi.pra.vas.surādhasam.indram.arca.yathā.vide./ yo.jaritṛbhyo.maghavā.purūvasus.sahasreṇa.iva.śikṣati./ ||"
+        },
+        {
+          "sukta": 4,
+          "title": "IV. Adhyāya .(.Anukramaṇī.).",
+          "totalMantras": 123,
+          "citationPrefix": "1.4",
+          "verseRange": "1.4.1 - 1.4.2",
+          "previewText": "ā.yasmin.deva.vītaye.putrāso.yantu.samyataḥ./ anādhṛṣṭam.vipanyayā.śrutāya.vo.dhṛṣat./ aham.rudrebhir.vasubhiś.carāmi..."
+        },
+        {
+          "sukta": 5,
+          "title": "(V. Adhyāya, Anukramaṇī).",
+          "totalMantras": 115,
+          "citationPrefix": "1.5",
+          "verseRange": "1.5.1 - 1.5.13",
+          "previewText": "saṃjñānam.uśanā.avadat.saṃjñānam.varuṇo.vadat./ saṃjñāmam.indraś.ca.agniś.ca.saṃjñānam.savitā.vadat./ ||"
+        },
+        {
+          "sukta": 7,
+          "title": "Khila-Khila",
+          "totalMantras": 20,
+          "citationPrefix": "1.7",
+          "verseRange": "1.7.1 - 1.7.20",
+          "previewText": "sūkta.ante.kṛṇāny.agnāv.araṇye.vā.udake.apivā./ yat.stṛṇair.adhyayanam.tad.adhītam.stṛṇāni.bhava.te.bhava.// ||"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1435 @@
+{
+  "vedaId": "atharvaveda-paippalada",
+  "title": "Paippalāda-Saṁhitā",
+  "religion": "Hinduism",
+  "collection": "Vedic Canon",
+  "totalMandalas": 20,
+  "totalSuktas": 158,
+  "totalMantras": 7488,
+  "mandalas": [
+    {
+      "mandala": 1,
+      "title": "Kāṇḍa 1",
+      "totalSuktas": 22,
+      "totalMantras": 469,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 22,
+          "citationPrefix": "1.1",
+          "verseRange": "1.1.1 - 1.1.5",
+          "previewText": "śaṃ no devīr abhiṣṭaya āpo bhavantu pītaye | śaṃ yor abhi sravantu naḥ ||"
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 21,
+          "citationPrefix": "1.2",
+          "verseRange": "1.2.1 - 1.2.4",
+          "previewText": "ye triṣaptāḥ pariyanti Bhatt. paryanti viśvā rūpāṇi bibhrataḥ | vācaspatir balā teṣāṃ tanvam adya dadhātu me ||"
+        },
+        {
+          "sukta": 3,
+          "title": "Sukta 3",
+          "totalMantras": 21,
+          "citationPrefix": "1.3",
+          "verseRange": "1.3.1 - 1.3.4",
+          "previewText": "abhīvartena maṇinā yenendro abhivāvṛte | tenemaṃ brahmaṇaspate abhi rāṣṭrāya vartaya ||"
+        },
+        {
+          "sukta": 4,
+          "title": "Sukta 4",
+          "totalMantras": 20,
+          "citationPrefix": "1.4",
+          "verseRange": "1.4.1 - 1.4.4",
+          "previewText": "naktaṃjātāsy oṣadhe rāme kṛṣṇe asikni ca | idaṃ rajani rajaya kilāsaṃ palitaṃ ca yat ||"
+        },
+        {
+          "sukta": 5,
+          "title": "Sukta 5",
+          "totalMantras": 21,
+          "citationPrefix": "1.5",
+          "verseRange": "1.5.1 - 1.5.4",
+          "previewText": "nāsaṃ naśan svayaṃ srasann Bhatt. nāsanna san* asatībhyo asattarāḥ | sehor arasatarā lavaṇād vikledīyasīḥ ||"
+        },
+        {
+          "sukta": 6,
+          "title": "Sukta 6",
+          "totalMantras": 23,
+          "citationPrefix": "1.6",
+          "verseRange": "1.6.1 - 1.6.6",
+          "previewText": "suparṇo jātaḥ prathamas tasya tvaṃ pittam āsitha | tad āsurī yudhā jītā rūpaṃ cakre vanaspatīn ||"
+        },
+        {
+          "sukta": 7,
+          "title": "Sukta 7",
+          "totalMantras": 14,
+          "citationPrefix": "1.7",
+          "verseRange": "1.7.1 - 1.7.5",
+          "previewText": "imaṃ me kuṣṭha pūruṣaṃ tam ā vaha taṃ niṣ kṛdhi | tam u me agadaṃ kṛdhi ||"
+        },
+        {
+          "sukta": 8,
+          "title": "Sukta 8",
+          "totalMantras": 21,
+          "citationPrefix": "1.8",
+          "verseRange": "1.8.1 - 1.8.4",
+          "previewText": "yāḥ purastād ācaranti yā vā paścāt sadānvāḥ | aśmānam ṛcchantīr yantu yo 'yaṃ svādāv anādyaḥ ||"
+        },
+        {
+          "sukta": 9,
+          "title": "Sukta 9",
+          "totalMantras": 20,
+          "citationPrefix": "1.9",
+          "verseRange": "1.9.1 - 1.9.4",
+          "previewText": "agne 'bhyāvartinn abhi na ā vavṛtsva | āyuṣā varcasā sanyā medhayā prajayā dhanena ||"
+        },
+        {
+          "sukta": 10,
+          "title": "Sukta 10",
+          "totalMantras": 22,
+          "citationPrefix": "1.10",
+          "verseRange": "1.10.1 - 1.10.4",
+          "previewText": "asya tvaṃ dadataḥ soma rājan varmeva tanvaṃ pari pāhi viśvataḥ | yo brahmaṇe rādho viddho dadāti tasya soma pra tira ..."
+        },
+        {
+          "sukta": 11,
+          "title": "Sukta 11",
+          "totalMantras": 21,
+          "citationPrefix": "1.11",
+          "verseRange": "1.11.1 - 1.11.4",
+          "previewText": "gāto havir janayan tastha indra- -agraṃ jyeṣṭha pary agāmeha deva | sa gāto gātottamā payāpim asmabhyam indra dadataḥ..."
+        },
+        {
+          "sukta": 12,
+          "title": "Sukta 12",
+          "totalMantras": 18,
+          "citationPrefix": "1.12",
+          "verseRange": "1.12.1 - 1.12.4",
+          "previewText": "pretā jayatā nara ugrā vaḥ santu bāhavaḥ | indro vaḥ śarma yacchatv anādhṛṣyā yathāsatha ||"
+        },
+        {
+          "sukta": 13,
+          "title": "Sukta 13",
+          "totalMantras": 21,
+          "citationPrefix": "1.13",
+          "verseRange": "1.13.1 - 1.13.4",
+          "previewText": "yas tvā mṛtyur abhyadhatta jāyamānaṃ supāśayā | taṃ te satyasya hastābhyām ud amuñcad bṛhaspatiḥ ||"
+        },
+        {
+          "sukta": 14,
+          "title": "Sukta 14",
+          "totalMantras": 21,
+          "citationPrefix": "1.14",
+          "verseRange": "1.14.1 - 1.14.4",
+          "previewText": "dhruvas tiṣṭha bhuvanasya gopa mā saṃ vikthā vanaspate | atraiva tvam iha vayaṃ suvīrā viśvā mṛdho abhimātīr vy asya ||"
+        },
+        {
+          "sukta": 15,
+          "title": "Sukta 15",
+          "totalMantras": 20,
+          "citationPrefix": "1.15",
+          "verseRange": "1.15.1 - 1.15.4",
+          "previewText": "agniṣ ṭe viśa ā nayād indro vāyur bṛhaspatiḥ | sa te dharmam adīdharad dhāteva bhuvanebhyaḥ ||"
+        },
+        {
+          "sukta": 16,
+          "title": "Sukta 16",
+          "totalMantras": 21,
+          "citationPrefix": "1.16",
+          "verseRange": "1.16.1 - 1.16.5",
+          "previewText": "ūrdhvo bhava prati vidhyādhy asmad ugraṃ dhanur ojasvān ā tanuṣva | prati durhārdaṃ harasā śṛṇīhi kṛtvānam agne adhar..."
+        },
+        {
+          "sukta": 17,
+          "title": "Sukta 17",
+          "totalMantras": 26,
+          "citationPrefix": "1.17",
+          "verseRange": "1.17.1 - 1.17.4",
+          "previewText": "yajñasya cakṣuḥ prabhṛtir mukhaṃ ca vācā śrotreṇa manasā juhomi | imaṃ yajñaṃ vitataṃ viśvakarmaṇā- -ā devā yantu sum..."
+        },
+        {
+          "sukta": 18,
+          "title": "Sukta 18",
+          "totalMantras": 23,
+          "citationPrefix": "1.18",
+          "verseRange": "1.18.1 - 1.18.4",
+          "previewText": "tribhyo rudrebhyaḥ pravasan yajāmi jyeṣṭhaḥ kaniṣṭha uta madhyamo yaḥ | jyotiṣkārāḥ kavayaḥ somapā ye kaṇvā ajantu ni..."
+        },
+        {
+          "sukta": 19,
+          "title": "Sukta 19",
+          "totalMantras": 20,
+          "citationPrefix": "1.19",
+          "verseRange": "1.19.1 - 1.19.4",
+          "previewText": "payo deveṣu paya oṣadhīṣu paya āśāsu payo 'ntarikṣe | tan me dhātā savitā ca dhattāṃ viśve tad devā abhi saṃ gṛṇantu ||"
+        },
+        {
+          "sukta": 20,
+          "title": "Sukta 20",
+          "totalMantras": 20,
+          "citationPrefix": "1.20",
+          "verseRange": "1.20.1 - 1.20.4",
+          "previewText": "rāyaspoṣaṃ dhehi no jātaveda ūrjāvad agne yaśaḥ sūnṛtāvat | dadhāma bhāgaṃ sunavāma somaṃ yajñena tvām upa śikṣema śa..."
+        },
+        {
+          "sukta": 21,
+          "title": "Sukta 21",
+          "totalMantras": 26,
+          "citationPrefix": "1.21",
+          "verseRange": "1.21.1 - 1.21.6",
+          "previewText": "trīṇi pātrāṇi prathamāny āsan tāni satyam uta bhūtaṃ tatakṣa | ṛtasya māne adhi yā dhruvāṇy ebhir devā amṛtaṃ bhakṣay..."
+        },
+        {
+          "sukta": 22,
+          "title": "Sukta 22",
+          "totalMantras": 27,
+          "citationPrefix": "1.22",
+          "verseRange": "1.22.1 - 1.22.5",
+          "previewText": "vātasya nu mahimā rathasya- -ārujann eti stanayann asya ghoṣaḥ | divaspṛg ety aruṇāni kṛṇvann atho eti pṛthivyā reṇum..."
+        }
+      ]
+    },
+    {
+      "mandala": 2,
+      "title": "Kāṇḍa 2",
+      "totalSuktas": 18,
+      "totalMantras": 444,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 28,
+          "citationPrefix": "2.1",
+          "verseRange": "2.1.1 - 2.1.8",
+          "previewText": "arasaṃ prācyaṃ viṣam arasaṃ yad udīcyam | athedam adharācyaṃ karambheṇa vi kalpate ||"
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 26,
+          "citationPrefix": "2.2",
+          "verseRange": "2.2.1 - 2.2.5",
+          "previewText": "venas tat paśyat paramaṃ padaṃ yatra viśvaṃ bhavaty ekanīḍam | idaṃ dhenur aduhaj jāyamānāḥ svarvido abhy anūṣata vrā..."
+        },
+        {
+          "sukta": 3,
+          "title": "Sukta 3",
+          "totalMantras": 25,
+          "citationPrefix": "2.3",
+          "verseRange": "2.3.1 - 2.3.5",
+          "previewText": "dīrghāyutvāya bṛhate raṇāya- -ariṣyanto dakṣamāṇāḥ sadaiva | maṇiṃ viṣkandhadūṣaṇaṃ jaṅgiḍaṃ bibhṛmo vayam ||"
+        },
+        {
+          "sukta": 4,
+          "title": "Sukta 4",
+          "totalMantras": 25,
+          "citationPrefix": "2.4",
+          "verseRange": "2.4.1 - 2.4.5",
+          "previewText": "yā śatrūn prāśaṃjayā sahamānābhibhūr asi | sāmūn pratiprāśo jahy arasān kṛṇv oṣadhe ||"
+        },
+        {
+          "sukta": 5,
+          "title": "Sukta 5",
+          "totalMantras": 27,
+          "citationPrefix": "2.5",
+          "verseRange": "2.5.1 - 2.5.5",
+          "previewText": "ā no agne sumatiṃ sambhalo ged imāṃ kumārīṃ saha no bhagena | juṣṭā vareṣu samaneṣu valgur oṣaṃ patyā bhavatu saṃbhag..."
+        },
+        {
+          "sukta": 6,
+          "title": "Sukta 6",
+          "totalMantras": 27,
+          "citationPrefix": "2.6",
+          "verseRange": "2.6.1 - 2.6.5",
+          "previewText": "yat svapne nijagantha yad vā śepiṣe 'nṛtam | agniṣ ṭvā tasmād enaso brahmā muñcatv aṃhasaḥ ||"
+        },
+        {
+          "sukta": 7,
+          "title": "Sukta 7",
+          "totalMantras": 26,
+          "citationPrefix": "2.7",
+          "verseRange": "2.7.1 - 2.7.5",
+          "previewText": "imau pādau pra harāmy ā gṛhebhyaḥ svastaye | indraḥ paścād indraḥ purastād indro naḥ pātu madhyataḥ ||"
+        },
+        {
+          "sukta": 8,
+          "title": "Sukta 8",
+          "totalMantras": 27,
+          "citationPrefix": "2.8",
+          "verseRange": "2.8.1 - 2.8.6",
+          "previewText": "yā vaiśvadevīr iṣavo yā vasūnāṃ yā rudrasya somasya yā bhagasya | viśve devā iṣavo yāvatīr vas tā vo agninā śarmaṇā ś..."
+        },
+        {
+          "sukta": 9,
+          "title": "Sukta 9",
+          "totalMantras": 10,
+          "citationPrefix": "2.9",
+          "verseRange": "2.9.1 - 2.9.5",
+          "previewText": "ud asau sūryo agād ud ayaṃ māmako bhagaḥ | tenāhaṃ vidvalā patim abhy asākṣi viṣāsahiḥ ||"
+        },
+        {
+          "sukta": 10,
+          "title": "Sukta 10",
+          "totalMantras": 20,
+          "citationPrefix": "2.10",
+          "verseRange": "2.10.1 - 2.10.5",
+          "previewText": "piśācakṣayaṇam asi piśācajambhanam asi svāhā ||"
+        },
+        {
+          "sukta": 11,
+          "title": "Sukta 11",
+          "totalMantras": 20,
+          "citationPrefix": "2.11",
+          "verseRange": "2.11.1 - 2.11.5",
+          "previewText": "agniṃ vayaṃ trātāraṃ yajāmahe menihanaṃ valagahanam | juṣāṇo agnir ājyasya menihā valagahā trātā trāyatāṃ svāhā ||"
+        },
+        {
+          "sukta": 12,
+          "title": "Sukta 12",
+          "totalMantras": 33,
+          "citationPrefix": "2.12",
+          "verseRange": "2.12.1 - 2.12.5",
+          "previewText": "ugrā nāma stha teṣāṃ vaḥ puro gṛhāḥ prācī dik teṣāṃ vo agnir iṣavaḥ | te no mṛḍata dvipade catuṣpade teṣāṃ vo yāny āy..."
+        },
+        {
+          "sukta": 13,
+          "title": "Sukta 13",
+          "totalMantras": 25,
+          "citationPrefix": "2.13",
+          "verseRange": "2.13.1 - 2.13.5",
+          "previewText": "yebhiḥ pāśair abhidadhāsi druhvaṇaḥ samāmino anṛtaṃ ye samāmire | tāṃs te vi ṣyāmy āyuṣe balāya- -anamīvaṃ pitum addh..."
+        },
+        {
+          "sukta": 14,
+          "title": "Sukta 14",
+          "totalMantras": 21,
+          "citationPrefix": "2.14",
+          "verseRange": "2.14.1 - 2.14.5",
+          "previewText": "bhagāya rājñe prathamaṃ juhomi viśve devā uttare mādayantām | uśan patnībhya uśatībhya ābhyaḥ patim agna ā vaha rātah..."
+        },
+        {
+          "sukta": 15,
+          "title": "Sukta 15",
+          "totalMantras": 27,
+          "citationPrefix": "2.15",
+          "verseRange": "2.15.1 - 2.15.5",
+          "previewText": "kṛtavyadhani vidhya taṃ yaś cakāra tam ij jahi | na tvām acakruṣe vayaṃ vadhāya saṃ śiśīmahe ||"
+        },
+        {
+          "sukta": 16,
+          "title": "Sukta 16",
+          "totalMantras": 25,
+          "citationPrefix": "2.16",
+          "verseRange": "2.16.1 - 2.16.5",
+          "previewText": "payo mahyam oṣadhayaḥ payo me vīrudho dadhan | apāṃ payasvad yat payas tan me varṣantu vṛṣṭayaḥ ||"
+        },
+        {
+          "sukta": 17,
+          "title": "Sukta 17",
+          "totalMantras": 21,
+          "citationPrefix": "2.17",
+          "verseRange": "2.17.1 - 2.17.5",
+          "previewText": "idaṃ cakṣur ṛtāvarī mā mā hāsīt purāyuṣaḥ | yad vāṃ tamo yad ripiśam apa vāṃ tan ni dadhmasi ||"
+        },
+        {
+          "sukta": 18,
+          "title": "Sukta 18",
+          "totalMantras": 31,
+          "citationPrefix": "2.18",
+          "verseRange": "2.18.1 - 2.18.5",
+          "previewText": "prācīṃ diśam āsthām agnir māvatv ojase balāya diśāṃ priyo bhūyāsam | anamitrā me diśo bhavantu ghṛtapratīkāḥ ||"
+        }
+      ]
+    },
+    {
+      "mandala": 3,
+      "title": "Kāṇḍa 3",
+      "totalSuktas": 8,
+      "totalMantras": 274,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 35,
+          "citationPrefix": "3.1",
+          "verseRange": "3.1.1 - 3.1.6",
+          "previewText": "ā tvāgan rāṣṭraṃ saha varcasod ihi prāṅ viśāṃ patir ekarāṭ tvaṃ vi rāja | sarvās tvā rājan pradiśo hvayantu- -upasady..."
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 31,
+          "citationPrefix": "3.2",
+          "verseRange": "3.2.1 - 3.2.6",
+          "previewText": "agnir no vidvān praty etu śatrūn pratidahann abhiśastim arātim | sa senāṃ mohayatu pareṣāṃ nihastāṃś ca kṛṇavaj jātav..."
+        },
+        {
+          "sukta": 3,
+          "title": "Sukta 3",
+          "totalMantras": 36,
+          "citationPrefix": "3.3",
+          "verseRange": "3.3.1 - 3.3.6",
+          "previewText": "ye sthāsyāṃ prācyāṃ diśi hetayo nāma devās teṣāṃ vo agnir iṣavaḥ | te no mṛḍata te no 'dhi brūta tebhyo namas tebhyaḥ..."
+        },
+        {
+          "sukta": 4,
+          "title": "Sukta 4",
+          "totalMantras": 27,
+          "citationPrefix": "3.4",
+          "verseRange": "3.4.4 - 3.4.6",
+          "previewText": "nābhūd ahir bhrūṇam ārad ahir adrim arasāvadhīt | viṣasya brahmaṇāmāsīt tato jīvan na mokṣase || mokṣyase ||"
+        },
+        {
+          "sukta": 5,
+          "title": "Sukta 5",
+          "totalMantras": 38,
+          "citationPrefix": "3.5",
+          "verseRange": "3.5.1 - 3.5.14",
+          "previewText": "imam indra vardhaya kṣatriyaṃ ma imaṃ viśām ekavṛṣaṃ kṛṇu tvam | nir amitrān akṣṇuhy asya sarvāṃs tān randhayāsmā aha..."
+        },
+        {
+          "sukta": 6,
+          "title": "Sukta 6",
+          "totalMantras": 30,
+          "citationPrefix": "3.6",
+          "verseRange": "3.6.1 - 3.6.7",
+          "previewText": "gṛhān aimi manasā modamāna ūrjaṃ bibhrad vasumaniḥ sumedhāḥ | aghoreṇa cakṣuṣā mitriyeṇa gṛhāṇāṃ paśyan paya ut tarām..."
+        },
+        {
+          "sukta": 7,
+          "title": "Sukta 7",
+          "totalMantras": 39,
+          "citationPrefix": "3.7",
+          "verseRange": "3.7.1 - 3.7.6",
+          "previewText": "devā marutaḥ pṛśnimātaro 'po dattodadhiṃ bhinta | divas pṛthivyā uror antarikṣād asmai kṣatrāyānena brahmaṇābhyaḥ pra..."
+        },
+        {
+          "sukta": 8,
+          "title": "Sukta 8",
+          "totalMantras": 38,
+          "citationPrefix": "3.8",
+          "verseRange": "3.8.1 - 3.8.6",
+          "previewText": "jaya prehi māpa krāmaḥ śatrūṇāṃ veda ā khida | indraḥ sapatnahā bhīmaḥ sañjayas te sam ānṛdhat ||"
+        }
+      ]
+    },
+    {
+      "mandala": 4,
+      "title": "Kāṇḍa 4",
+      "totalSuktas": 8,
+      "totalMantras": 302,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 43,
+          "citationPrefix": "4.1",
+          "verseRange": "4.1.1 - 4.1.10",
+          "previewText": "hiraṇyagarbhaḥ sam avartatāgre bhūtasya jātaḥ patir eka āsīt | sa dādhāra pṛthivīṃ dyām utāmuṃ tasmai devāya haviṣā v..."
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 43,
+          "citationPrefix": "4.2",
+          "verseRange": "4.2.1 - 4.2.8",
+          "previewText": "hiraṇyaśṛṅgo vṛṣabho yaḥ samudrād udācarat | tenā sahasyenā vayaṃ ni janānt svāpayāmasi ||"
+        },
+        {
+          "sukta": 3,
+          "title": "Sukta 3",
+          "totalMantras": 36,
+          "citationPrefix": "4.3",
+          "verseRange": "4.3.1 - 4.3.7",
+          "previewText": "yenācarad uśanā kāvyo 'gre vidvān kratūnām uta devatānām | sahṛdayena haviṣā juhomi sadhrīcīnaṃ vo mano 'stūgram ||"
+        },
+        {
+          "sukta": 4,
+          "title": "Sukta 4",
+          "totalMantras": 37,
+          "citationPrefix": "4.4",
+          "verseRange": "4.4.1 - 4.4.7",
+          "previewText": "udyann ādityo ghuṇān hantu sūryo nimrocan raśmibhir hantu | tāvan no abhisaṃhitam ||"
+        },
+        {
+          "sukta": 5,
+          "title": "Sukta 5",
+          "totalMantras": 37,
+          "citationPrefix": "4.5",
+          "verseRange": "4.5.1 - 4.5.7",
+          "previewText": "khananti tvā taimātāṃ Bhatt. taimātā dāsā arasabāhavaḥ | dāsy asi prakrīr asy utkhātam arasaṃ viṣam ||"
+        },
+        {
+          "sukta": 6,
+          "title": "Sukta 6",
+          "totalMantras": 36,
+          "citationPrefix": "4.6",
+          "verseRange": "4.6.1 - 4.6.9",
+          "previewText": "kanyā vār avāyatī somam api srutāvidat | Bhatt. śrutāvidat astaṃ bharanty abravīd indrāya sunomi tvā śakrāya sunomi t..."
+        },
+        {
+          "sukta": 7,
+          "title": "Sukta 7",
+          "totalMantras": 35,
+          "citationPrefix": "4.7",
+          "verseRange": "4.7.1 - 4.7.7",
+          "previewText": "prātar agniṃ prātar indraṃ havāmahe prātar mitrāvaruṇā prātar aśvinā | prātar bhagaṃ pūṣaṇaṃ brahmaṇaspatiṃ prātaḥ so..."
+        },
+        {
+          "sukta": 8,
+          "title": "Sukta 8",
+          "totalMantras": 35,
+          "citationPrefix": "4.8",
+          "verseRange": "4.8.1 - 4.8.7",
+          "previewText": "manve vāṃ dyāvāpṛthivī subhojasau ye aprathethām amitā yojanāni | pratiṣṭhe hy abhavataṃ vasūnāṃ te no muñcatam aṃhas..."
+        }
+      ]
+    },
+    {
+      "mandala": 5,
+      "title": "Kāṇḍa 5",
+      "totalSuktas": 8,
+      "totalMantras": 355,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 47,
+          "citationPrefix": "5.1",
+          "verseRange": "5.1.1 - 5.1.9",
+          "previewText": "namaḥ piśaṅgabāhvai sindhau jātāyā ugrāyai | yo asyai nama it karad aped asya gṛhād ayat ||"
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 50,
+          "citationPrefix": "5.2",
+          "verseRange": "5.2.1 - 5.2.10",
+          "previewText": "sapta sūryā divam anupraviṣṭās tān pathā vā anv eti dakṣiṇāvān | te 'smai sarve ghṛtam ā tapanty ūrjaṃ duhānā anapasp..."
+        },
+        {
+          "sukta": 3,
+          "title": "Sukta 3",
+          "totalMantras": 42,
+          "citationPrefix": "5.3",
+          "verseRange": "5.3.1 - 5.3.9",
+          "previewText": "anu te manyatām agnir varuṇas te 'nu manyatām | tatas te putro jāyatāṃ sa varmī goṣu yudhyatām ||"
+        },
+        {
+          "sukta": 4,
+          "title": "Sukta 4",
+          "totalMantras": 41,
+          "citationPrefix": "5.4",
+          "verseRange": "5.4.1 - 5.4.8",
+          "previewText": "dyauś cemaṃ yajñaṃ pṛthivī ca saṃ duhātāṃ mātariśvā pavamānaḥ purastāt | tvaṣṭā vāyuḥ saha somena vāta imaṃ saṃ duhrā..."
+        },
+        {
+          "sukta": 5,
+          "title": "Sukta 5",
+          "totalMantras": 41,
+          "citationPrefix": "5.5",
+          "verseRange": "5.5.1 - 5.5.8",
+          "previewText": "dyauś ca naḥ pitā pṛthivī ca mātā- -agniś ca nṛcakṣā jātavedāḥ | te takmānam adharāñcaṃ nyañcaṃ daśāhnam asyantv adhi..."
+        },
+        {
+          "sukta": 6,
+          "title": "Sukta 6",
+          "totalMantras": 43,
+          "citationPrefix": "5.6",
+          "verseRange": "5.6.1 - 5.6.9",
+          "previewText": "arātyā dyāvāpṛthivī chintaṃ mūlam atho śiraḥ | vicchidya madhyataḥ pṛṣṭīs Lubotsky pṛṣṭhīs (misprint) tāṃ kṛṇvāthām a..."
+        },
+        {
+          "sukta": 7,
+          "title": "Sukta 7",
+          "totalMantras": 51,
+          "citationPrefix": "5.7",
+          "verseRange": "5.7.1 - 5.7.12",
+          "previewText": "atyāsarat prathamā dhokṣyamāṇā sarvān yajñān bibhratī vaiśvadevī | upa vatsaṃ sṛjata vāśyate gaur vy asṛṣṭa sumanā hi..."
+        },
+        {
+          "sukta": 8,
+          "title": "Sukta 8",
+          "totalMantras": 40,
+          "citationPrefix": "5.8",
+          "verseRange": "5.8.1 - 5.8.8",
+          "previewText": "ye vāruṇā uta nairṛtā vanaspatīnāṃ vīrudhāṃ ca pāśāḥ | ye bhaumā bhūmyā adhi saṃbabhūvus te tvā na hiṃsāñ chivatātir ..."
+        }
+      ]
+    },
+    {
+      "mandala": 6,
+      "title": "Kāṇḍa 6",
+      "totalSuktas": 4,
+      "totalMantras": 234,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 55,
+          "citationPrefix": "6.1",
+          "verseRange": "6.1.1 - 6.1.13",
+          "previewText": "tad id āsa bhuvaneṣu jyeṣṭhaṃ yato jajña ugras tveṣanṛmṇaḥ | sadyo jajñāno ni riṇāti śatrūn anu yaṃ viśve madanty ūmā..."
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 48,
+          "citationPrefix": "6.2",
+          "verseRange": "6.2.1 - 6.2.9",
+          "previewText": "madhuman me nikramaṇaṃ madhuman me parāyaṇam | vācā madhumad udyāsam akṣyau me madhusaṃdṛśī ||"
+        },
+        {
+          "sukta": 3,
+          "title": "Sukta 3",
+          "totalMantras": 72,
+          "citationPrefix": "6.3",
+          "verseRange": "6.3.2 - 6.3.11",
+          "previewText": "anāptā ye vaḥ prathamā yāni karmāṇi cakrire | vīrān no atra mā dabhan tad va etat puro dadhe ||"
+        },
+        {
+          "sukta": 4,
+          "title": "Sukta 4",
+          "totalMantras": 59,
+          "citationPrefix": "6.4",
+          "verseRange": "6.4.1 - 6.4.12",
+          "previewText": "saṃ mā siñcantu marutaḥ saṃ pūṣā saṃ bṛhaspatiḥ | saṃ māyam agniḥ siñcatu prajayā ca dhanena ca dīrgham āyuṣ kṛṇotu m..."
+        }
+      ]
+    },
+    {
+      "mandala": 7,
+      "title": "Kāṇḍa 7",
+      "totalSuktas": 4,
+      "totalMantras": 201,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 56,
+          "citationPrefix": "7.1",
+          "verseRange": "7.1.1 - 7.1.12",
+          "previewText": "suparṇas tvānvavindat sūkaras tvākhanan nasā | dipsauṣadhe tvaṃ dipsantaṃ prati kṛtyākṛto daha ||"
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 50,
+          "citationPrefix": "7.2",
+          "verseRange": "7.2.1 - 7.2.10",
+          "previewText": "satyasya sthūṇā pṛthivīṃ dādhāra ṛtena devā amṛtam anv avindan | dhruveṇa tvā haviṣā dhārayāmy abhi tad dyāvāpṛthivī ..."
+        },
+        {
+          "sukta": 3,
+          "title": "Sukta 3",
+          "totalMantras": 55,
+          "citationPrefix": "7.3",
+          "verseRange": "7.3.1 - 7.3.10",
+          "previewText": "ye parvatāḥ somapṛṣṭhā āpa uttānaśīvarīḥ | vātaḥ parjanya ād agnis te kravyādam aśīśaman ||"
+        },
+        {
+          "sukta": 4,
+          "title": "Sukta 4",
+          "totalMantras": 40,
+          "citationPrefix": "7.4",
+          "verseRange": "7.4.1 - 7.4.10",
+          "previewText": "agnir mā pātu vasubhiḥ purastāt tasmin krame tasmiṃ śraye tāṃ puraṃ praimi | sa mā rakṣatu sa mā gopāyatu tasmā ātmān..."
+        }
+      ]
+    },
+    {
+      "mandala": 8,
+      "title": "Kāṇḍa 8",
+      "totalSuktas": 4,
+      "totalMantras": 230,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 57,
+          "citationPrefix": "8.1",
+          "verseRange": "8.1.1 - 8.1.11",
+          "previewText": "kathā dive asurāya bravāma kathā pitre haraye tveṣanṛmṇaḥ | pṛśniṃ varuṇa dakṣiṇāṃ dadāvān punarmagha tvaṃ manasāciki..."
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 58,
+          "citationPrefix": "8.2",
+          "verseRange": "8.2.1 - 8.2.12",
+          "previewText": "ā paśyasi prati paśyasi parā paśyasi paśyasi | dyām antarikṣam ād bhūmiṃ tat sarvaṃ devi paśyasi ||"
+        },
+        {
+          "sukta": 3,
+          "title": "Sukta 3",
+          "totalMantras": 58,
+          "citationPrefix": "8.3",
+          "verseRange": "8.3.1 - 8.3.13",
+          "previewText": "catasras te khala sraktīr atho madhyam ahaṃ khala | dhārāś catasra stoṣyāmi vediṃ manuṣyavardhanīm ||"
+        },
+        {
+          "sukta": 4,
+          "title": "Sukta 4",
+          "totalMantras": 57,
+          "citationPrefix": "8.4",
+          "verseRange": "8.4.1 - 8.4.11",
+          "previewText": "nava ca yā navatiś cārūḍhā vakṣaṇā anu | itas tāḥ sarvā naśyantu nuttāḥ putthajño mayā ||"
+        }
+      ]
+    },
+    {
+      "mandala": 9,
+      "title": "Kāṇḍa 9",
+      "totalSuktas": 4,
+      "totalMantras": 304,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 62,
+          "citationPrefix": "9.1",
+          "verseRange": "9.1.1 - 9.1.16",
+          "previewText": "ūrdhvā asya samidho bhavanty ūrdhvā śukrā śocīṃṣy agneḥ | dyumattamā supratīkasya sūnos tanūnapād asuro viśvavedāḥ ||"
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 67,
+          "citationPrefix": "9.2",
+          "verseRange": "9.2.1 - 9.2.14",
+          "previewText": "imāṃ khanāmy oṣadhim adṛṣṭahananīm aham | aśvasyāvo dadāti tvā vairūpo vājinīvati ||"
+        },
+        {
+          "sukta": 3,
+          "title": "Sukta 3",
+          "totalMantras": 85,
+          "citationPrefix": "9.3",
+          "verseRange": "9.3.1 - 9.3.12",
+          "previewText": "samānam arthaṃ paryanti devā rūpaṃrūpaṃ tapasā vardhamānāḥ | yad ādityam abhisaṃviśanti tad ekaṃ rūpam amṛtatvam eṣām ||"
+        },
+        {
+          "sukta": 4,
+          "title": "Sukta 4",
+          "totalMantras": 90,
+          "citationPrefix": "9.4",
+          "verseRange": "9.4.1 - 9.4.7",
+          "previewText": "yo vā ekaśarāvaṃ nirvaped ekarṣim evānu nir vapet | eṣa vā ekarṣir yad agniḥ | ekarṣiṃ caiva lokaṃ cāva rundhe note s..."
+        }
+      ]
+    },
+    {
+      "mandala": 10,
+      "title": "Kāṇḍa 10",
+      "totalSuktas": 2,
+      "totalMantras": 165,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 57,
+          "citationPrefix": "10.1",
+          "verseRange": "10.1.1 - 10.1.14",
+          "previewText": "hā amba tejane dheno lambanastani | na tad vido yad icchasi yad u vittaṃ na tad ghasaḥ ||"
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 108,
+          "citationPrefix": "10.2",
+          "verseRange": "10.2.1 - 10.2.11",
+          "previewText": "bhagasya rājñaḥ sumatiṃ gamema yaṃ havante bahudhā mānuṣāsaḥ | karma kṛṇvāno bhagam ā vṛṇīte sa no janeṣu subhagāṃ kṛ..."
+        }
+      ]
+    },
+    {
+      "mandala": 11,
+      "title": "Kāṇḍa 11",
+      "totalSuktas": 1,
+      "totalMantras": 148,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 148,
+          "citationPrefix": "11.1",
+          "verseRange": "11.1.1 - 11.1.14",
+          "previewText": "vṛṣā te 'haṃ vṛṣaṇyantyai garbhaṃ dadhāmi yonyām | yadi devapariṣṭhitā prajāṃ tokaṃ na vindase ||"
+        }
+      ]
+    },
+    {
+      "mandala": 12,
+      "title": "Kāṇḍa 12",
+      "totalSuktas": 2,
+      "totalMantras": 198,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 95,
+          "citationPrefix": "12.1",
+          "verseRange": "12.1.1 - 12.1.9",
+          "previewText": "agnis takmānam apa bādhatām itaḥ somo grāvā marutaḥ pūtadakṣāḥ | vedir barhiḥ samidhaḥ śośucānā apa rakṣāṃsy amuyā dh..."
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 103,
+          "citationPrefix": "12.2",
+          "verseRange": "12.2.1 - 12.2.14",
+          "previewText": "indrasya nu vīryāṇi pra vocaṃ yāni cakāra prathamāni vajrī | ahann ahim anv apas tatarda pra vakṣaṇā abhinat parvatān..."
+        }
+      ]
+    },
+    {
+      "mandala": 13,
+      "title": "Kāṇḍa 13",
+      "totalSuktas": 2,
+      "totalMantras": 65,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 33,
+          "citationPrefix": "13.1",
+          "verseRange": "13.1.1 - 13.1.7",
+          "previewText": "antarhitaṃ me bṛhad antarikṣam antarhitāḥ parvatā agnayo me | maiṣāṃ rādhy abhicāra eṣa pratyag enān pratisareṇa hanm..."
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 32,
+          "citationPrefix": "13.2",
+          "verseRange": "13.2.1 - 13.2.1",
+          "previewText": "imaṃ stomam arhate jātavedase ratham iva saṃ mahemā manīṣayā | bhadrā hi naḥ pramatir asya saṃ sady agne sakhye mā ri..."
+        }
+      ]
+    },
+    {
+      "mandala": 14,
+      "title": "Kāṇḍa 14",
+      "totalSuktas": 1,
+      "totalMantras": 84,
+      "suktas": [
+        {
+          "sukta": 3,
+          "title": "Sukta 3",
+          "totalMantras": 84,
+          "citationPrefix": "14.3",
+          "verseRange": "14.3.1 - 14.3.7",
+          "previewText": "endro bāhubhyām abharac cikitvān apo devīr varuṇāya prajānan | tam ādityā abhy aṣiñcanta sarve rājānam ugraṃ bṛhate r..."
+        }
+      ]
+    },
+    {
+      "mandala": 15,
+      "title": "Kāṇḍa 15",
+      "totalSuktas": 4,
+      "totalMantras": 41,
+      "suktas": [
+        {
+          "sukta": 20,
+          "title": "Sukta 20",
+          "totalMantras": 10,
+          "citationPrefix": "15.20",
+          "verseRange": "15.20.1 - 15.20.10",
+          "previewText": "tvaj jātā rudra śantamā tvaṃ hi no babhuryā irāya bheṣajebhiḥ | Bhatt. om. irāya vi yakṣmān yāvayāsmad vy aṃho Bhatt...."
+        },
+        {
+          "sukta": 21,
+          "title": "Sukta 21",
+          "totalMantras": 8,
+          "citationPrefix": "15.21",
+          "verseRange": "15.21.1 - 15.21.8",
+          "previewText": "nayāmi vāṃ paśupatī ghṛtenājyena vardhayan | yaṃ dviṣmo yaś ca no dveṣṭi tasya veśaḥ kariṣyathaḥ ||"
+        },
+        {
+          "sukta": 22,
+          "title": "Sukta 22",
+          "totalMantras": 10,
+          "citationPrefix": "15.22",
+          "verseRange": "15.22.1 - 15.22.10",
+          "previewText": "indrāgnī huve prathamau hvayāmi marutaḥ śivān | Bhatt. śivāṃ hvayāmi viśvān devān Bhatt. viśvāṃ imaṃ homam avantu me ||"
+        },
+        {
+          "sukta": 23,
+          "title": "Sukta 23",
+          "totalMantras": 13,
+          "citationPrefix": "15.23",
+          "verseRange": "15.23.1 - 15.23.13",
+          "previewText": "vṛṣākṣasyāsurasya menir asi tāṃ tvayā tathā veda karṇasya kauvidasyevamāśā | tāṃ mābhy ava gā dvādaśāhnāni vi rakṣe ||"
+        }
+      ]
+    },
+    {
+      "mandala": 16,
+      "title": "Kāṇḍa 16",
+      "totalSuktas": 21,
+      "totalMantras": 1321,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 49,
+          "citationPrefix": "16.1",
+          "verseRange": "16.1.1 - 16.1.8",
+          "previewText": "antakāya mṛtyave nama iha- -ayam astu puruṣaḥ sahāsunā | sūryasya bhāge amṛtasya loke prāṇā apānā iha te ramantām ||"
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 56,
+          "citationPrefix": "16.2",
+          "verseRange": "16.2.1 - 16.2.5",
+          "previewText": "rakṣohaṇaṃ vājinam ā jigharmi mitraṃ prathiṣṭham upa yāmi śarma | śiśāno agniḥ kratubhiḥ samiddhaḥ sa no divā sa riṣa..."
+        },
+        {
+          "sukta": 3,
+          "title": "Sukta 3",
+          "totalMantras": 54,
+          "citationPrefix": "16.3",
+          "verseRange": "16.3.1 - 16.3.7",
+          "previewText": "yā babhravo yāś ca śukrā rohiṇīr uta pṛśnayaḥ | asiknīḥ kṛṣṇā oṣadhīḥ sarvā acchā vadāmasi ||"
+        },
+        {
+          "sukta": 4,
+          "title": "Sukta 4",
+          "totalMantras": 50,
+          "citationPrefix": "16.4",
+          "verseRange": "16.4.1 - 16.4.6",
+          "previewText": "kutas tau jātau katamaḥ so ardhaḥ kasmāl lokāt katarasyāḥ pṛthivyāḥ | vatsau virājaḥ salilād udaitāṃ tau tvā pṛcchāmi..."
+        },
+        {
+          "sukta": 5,
+          "title": "Sukta 5",
+          "totalMantras": 45,
+          "citationPrefix": "16.5",
+          "verseRange": "16.5.1 - 16.5.11",
+          "previewText": "sāhasras tveṣa ṛṣabhaḥ payasvān viśvā rūpāṇi vakṣaṇāsu bibhrat | bhadraṃ dātre yajamānāya śikṣan bārhaspatya usriyas ..."
+        },
+        {
+          "sukta": 6,
+          "title": "Sukta 6",
+          "totalMantras": 51,
+          "citationPrefix": "16.6",
+          "verseRange": "16.6.1 - 16.6.5",
+          "previewText": "indro manthatu manthitā śakraḥ śūraḥ purandaraḥ | yathā hanāma senām amitrāṇāṃ sahasraśaḥ ||"
+        },
+        {
+          "sukta": 7,
+          "title": "Sukta 7",
+          "totalMantras": 65,
+          "citationPrefix": "16.7",
+          "verseRange": "16.7.1 - 16.7.11",
+          "previewText": "yāṃ kalpayanti vahatau vadhūm iva viśvarūpāṃ hastakṛtāṃ cikitsavaḥ | sārād etv apa nudāma enān ||"
+        },
+        {
+          "sukta": 8,
+          "title": "Sukta 8",
+          "totalMantras": 59,
+          "citationPrefix": "16.8",
+          "verseRange": "16.8.1 - 16.8.5",
+          "previewText": "arātīyor bhrātṛvyasya durhārdo dviṣataḥ śiraḥ | pra vṛścāmīdam ojasā ||"
+        },
+        {
+          "sukta": 9,
+          "title": "Sukta 9",
+          "totalMantras": 103,
+          "citationPrefix": "16.9",
+          "verseRange": "16.9.1 - 16.9.3",
+          "previewText": "yad devā devaheḍanaṃ devāsaś cakṛmā vayam | ādityās tasmān no yūyam ṛtasyartena muñcata ||"
+        },
+        {
+          "sukta": 10,
+          "title": "Sukta 10",
+          "totalMantras": 59,
+          "citationPrefix": "16.10",
+          "verseRange": "16.10.1 - 16.10.4",
+          "previewText": "kena pārṣṇī ābhṛte pūruṣasya kena māṃsaṃ saṃbhṛtaṃ kena gulphau | kenāṅgulīḥ peśinīḥ kena khāni kenocchṛṅkhau madhyat..."
+        },
+        {
+          "sukta": 11,
+          "title": "Sukta 11",
+          "totalMantras": 45,
+          "citationPrefix": "16.11",
+          "verseRange": "16.11.1 - 16.11.13",
+          "previewText": "asya vāmasya palitasya hotus tasya bhrātā madhyamo asty aśnaḥ | tṛtīyo bhrātā ghṛtapṛṣṭho asya- -atrāpaśyaṃ viśpatiṃ ..."
+        },
+        {
+          "sukta": 12,
+          "title": "Sukta 12",
+          "totalMantras": 58,
+          "citationPrefix": "16.12",
+          "verseRange": "16.12.1 - 16.12.12",
+          "previewText": "dyaur javenā pṛthivī varimṇāntarikṣaṃ mahitvāpo bhūmnā | devasya tvā savituḥ prasave 'śvinor bāhubhyāṃ pūṣṇo hastābhy..."
+        },
+        {
+          "sukta": 13,
+          "title": "Sukta 13",
+          "totalMantras": 53,
+          "citationPrefix": "16.13",
+          "verseRange": "16.13.1 - 16.13.8",
+          "previewText": "sapatnahanam ṛṣabhaṃ ghṛtena kāmaṃ śikṣāmi haviṣājyena | nīcaiḥ sapatnān mama pādaya tvam abhiṣṭuto mahatā vīryeṇa ||"
+        },
+        {
+          "sukta": 14,
+          "title": "Sukta 14",
+          "totalMantras": 64,
+          "citationPrefix": "16.14",
+          "verseRange": "16.14.1 - 16.14.6",
+          "previewText": "ucchiṣṭe nāmarūpāṇy ucchiṣṭe loka āhitaḥ | ucchiṣṭa indraś cāgniś ca viśvam antaḥ samāhitam ||"
+        },
+        {
+          "sukta": 15,
+          "title": "Sukta 15",
+          "totalMantras": 56,
+          "citationPrefix": "16.15",
+          "verseRange": "16.15.1 - 16.15.8",
+          "previewText": "agne jāyasvāditir nāthiteyaṃ brahmaudanaṃ pacati putrakāmā | saptaṛṣayo bhūtakṛtas te tvā manthantu prajayā saheha ||..."
+        },
+        {
+          "sukta": 16,
+          "title": "Sukta 16",
+          "totalMantras": 73,
+          "citationPrefix": "16.16",
+          "verseRange": "16.16.1 - 16.16.11",
+          "previewText": "ā nayaitam ā rabhasva sukṛtāṃ Bhatt. nayaitum lokam api gacchatu prajānan | tīrtvā tamāṃsi bahudhā vipaśyann ajo nāka..."
+        },
+        {
+          "sukta": 17,
+          "title": "Sukta 17",
+          "totalMantras": 65,
+          "citationPrefix": "16.17",
+          "verseRange": "16.17.1 - 16.17.4",
+          "previewText": "bhavāśarvau mṛḍataṃ mābhi yātaṃ bhūtapatī paśupatī namo vām | pratihitam āyatāṃ mā vi srāṣṭaṃ mā no hiṃsiṣṭaṃ dvipado..."
+        },
+        {
+          "sukta": 18,
+          "title": "Sukta 18",
+          "totalMantras": 98,
+          "citationPrefix": "16.18",
+          "verseRange": "16.18.2 - 16.18.4",
+          "previewText": "parūṃṣi yasya saṃbhārā ṛco yasyānūkyam ||"
+        },
+        {
+          "sukta": 19,
+          "title": "Sukta 19",
+          "totalMantras": 68,
+          "citationPrefix": "16.19",
+          "verseRange": "16.19.1 - 16.19.9",
+          "previewText": "indrasyauja sthendrasya saha sthendrasya balaṃ stha- -indrasya nṛmṇaṃ sthendrasya śukraṃ sthendrasya vīryaṃ stha | ji..."
+        },
+        {
+          "sukta": 20,
+          "title": "Sukta 20",
+          "totalMantras": 94,
+          "citationPrefix": "16.20",
+          "verseRange": "16.20.1 - 16.20.12",
+          "previewText": "aghāyatām api nahyā mukhāni sapatneṣu vajram arpayaitam | indreṇa dattā prathamā śataudanā bhrātṛvyaghnī yajamānāya g..."
+        },
+        {
+          "sukta": 22,
+          "title": "Sukta 22",
+          "totalMantras": 56,
+          "citationPrefix": "16.22",
+          "verseRange": "16.22.2 - 16.22.6",
+          "previewText": "brahma bhrājad ud agād antarikṣaṃ divaṃ ca brahmāvādhūṣṭāmṛtena mṛtyum | brahmopadraṣṭā sukṛtasya sākṣād brahmāsmad a..."
+        }
+      ]
+    },
+    {
+      "mandala": 17,
+      "title": "Kāṇḍa 17",
+      "totalSuktas": 8,
+      "totalMantras": 452,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 60,
+          "citationPrefix": "17.1",
+          "verseRange": "17.1.1 - 17.1.10",
+          "previewText": "satyaṃ bṛhad ṛtam ugraṃ dīkṣā tapo brahma yajñaḥ pṛthivīṃ dhārayanti | sā no bhūtasya bhavyasya patny uruṃ lokaṃ pṛth..."
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 44,
+          "citationPrefix": "17.2",
+          "verseRange": "17.2.1 - 17.2.4",
+          "previewText": "kasminn aṅge tapo asyādhi tiṣṭhati kasminn aṅga ṛtam asyādhyāhitam | kva vrataṃ kva śraddhāsya tiṣṭhati kasminn aṅge ..."
+        },
+        {
+          "sukta": 3,
+          "title": "Sukta 3",
+          "totalMantras": 40,
+          "citationPrefix": "17.3",
+          "verseRange": "17.3.1 - 17.3.10",
+          "previewText": "antaḥpātre rerihati dūrśe durnihitaiṣiṇi | Selva 2019, 56; Bhatt. duḥśe durni° uruṇḍe abhicaṅkrame vakmake bastavāsin..."
+        },
+        {
+          "sukta": 4,
+          "title": "Sukta 4",
+          "totalMantras": 53,
+          "citationPrefix": "17.4",
+          "verseRange": "17.4.1 - 17.4.13",
+          "previewText": "dadāmīty eva brūyād anu cainām abhutsata | vaśāṃ brahmabhyo yācadbhyas tat prajāvad apatyavat ||"
+        },
+        {
+          "sukta": 5,
+          "title": "Sukta 5",
+          "totalMantras": 62,
+          "citationPrefix": "17.5",
+          "verseRange": "17.5.1 - 17.5.21",
+          "previewText": "asṛṅ māṃsaṃ tvacaṃ peṣṭraṃ mastṛhaṇaṃ majjñaḥ śarīram | Bhatt. peṣṭramastṛhaṇaṃ agniḥ kravyād attv amuṣyāmuṣyāyaṇasyā..."
+        },
+        {
+          "sukta": 6,
+          "title": "Sukta 6",
+          "totalMantras": 76,
+          "citationPrefix": "17.6",
+          "verseRange": "17.6.1 - 17.6.7",
+          "previewText": "indro vajram asiñcad vṛtrāya hantave | tvaṣṭā vajram asiñcad vṛtrāya hantave ||"
+        },
+        {
+          "sukta": 7,
+          "title": "Sukta 7",
+          "totalMantras": 57,
+          "citationPrefix": "17.7",
+          "verseRange": "17.7.1 - 17.7.7",
+          "previewText": "naḍam ā roha na te atra loka idaṃ sīsaṃ bhāgadheyaṃ ta ehi | yo goṣu yakṣmaḥ puruṣeṣu yakṣmas tena tvaṃ sākam adharāṅ..."
+        },
+        {
+          "sukta": 8,
+          "title": "Sukta 8",
+          "totalMantras": 60,
+          "citationPrefix": "17.8",
+          "verseRange": "17.8.1 - 17.8.10",
+          "previewText": "pumān puṃso adhi tiṣṭha carma tatra hvayasva yatamā priyā te | yāvantāv agre prathamaṃ sameyathus tad vāṃ vayo yamarā..."
+        }
+      ]
+    },
+    {
+      "mandala": 18,
+      "title": "Kāṇḍa 18",
+      "totalSuktas": 13,
+      "totalMantras": 658,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 62,
+          "citationPrefix": "18.1",
+          "verseRange": "18.1.1 - 18.1.12",
+          "previewText": "satyenottabhitā bhūmiḥ sūryeṇottabhitā dyauḥ | ṛtenādityās tiṣṭhanti divi somo adhi śritaḥ ||"
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 77,
+          "citationPrefix": "18.2",
+          "verseRange": "18.2.1 - 18.2.7",
+          "previewText": "tubhyam agre pary avahan sūryāṃ vahatunā saha | punaḥ patibhyo jāyāṃ dā agne prajayā saha ||"
+        },
+        {
+          "sukta": 3,
+          "title": "Sukta 3",
+          "totalMantras": 50,
+          "citationPrefix": "18.3",
+          "verseRange": "18.3.1 - 18.3.11",
+          "previewText": "udehi vājin yo 'psv antar idaṃ rāṣṭraṃ pra viśa sūnṛtāvat | yo rohito viśvam idaṃ jajāna sa tvā rāṣṭrāya subhṛtaṃ pip..."
+        },
+        {
+          "sukta": 4,
+          "title": "Sukta 4",
+          "totalMantras": 64,
+          "citationPrefix": "18.4",
+          "verseRange": "18.4.1 - 18.4.4",
+          "previewText": "vediṃ bhūmiṃ kalpayitvā divaṃ kṛtvā dakṣiṇām | ghraṃsaṃ tad agniṃ kṛtvā cakāra viśvam ātmanvad varṣeṇājyena rohitaḥ ||"
+        },
+        {
+          "sukta": 5,
+          "title": "Sukta 5",
+          "totalMantras": 38,
+          "citationPrefix": "18.5",
+          "verseRange": "18.5.1 - 18.5.9",
+          "previewText": "vrātyo vāvedam agra āsīd vīyamāna eva sa prajāpatiṃ sam airayat || Bhatt. īrayat ||"
+        },
+        {
+          "sukta": 6,
+          "title": "Sukta 6",
+          "totalMantras": 32,
+          "citationPrefix": "18.6",
+          "verseRange": "18.6.1 - 18.6.1",
+          "previewText": "sa mahimā sadrur bhūtvāntaṃ bhūmyā agacchat samudro 'bhavat | taṃ prajāpatiś ca parameṣṭhī cāpaś ca śraddhā ca varṣaṃ..."
+        },
+        {
+          "sukta": 7,
+          "title": "Sukta 7",
+          "totalMantras": 13,
+          "citationPrefix": "18.7",
+          "verseRange": "18.7.1 - 18.7.4",
+          "previewText": "atisṛṣṭo apāṃ vṛṣabho atisṛṣṭā agnayo divyāḥ | rujan parirujan mṛṇan pramṛṇam mroko manohā khano nirdāha ātmadūṣis ta..."
+        },
+        {
+          "sukta": 8,
+          "title": "Sukta 8",
+          "totalMantras": 39,
+          "citationPrefix": "18.8",
+          "verseRange": "18.8.1 - 18.8.1",
+          "previewText": "vidma te svapna janitraṃ pāpmanaḥ putro 'si yamasya karaṇaḥ | sa naḥ svapna suṣvapnyāt pāhi || Bhatt. su(⟨ du)ṣvapnyā..."
+        },
+        {
+          "sukta": 9,
+          "title": "Sukta 9",
+          "totalMantras": 27,
+          "citationPrefix": "18.9",
+          "verseRange": "18.9.1 - 18.9.13",
+          "previewText": "viṣāsahiṃ sahamānaṃ sāsahānaṃ sahīyāṃsaṃ sahamānaṃ sahojitam | viśvajitaṃ svarjitam abhijitaṃ vasujitaṃ gojitaṃ saṃji..."
+        },
+        {
+          "sukta": 10,
+          "title": "Sukta 10",
+          "totalMantras": 57,
+          "citationPrefix": "18.10",
+          "verseRange": "18.10.1 - 18.10.7",
+          "previewText": "o cit sakhāyaṃ sakhyā vavṛtyāṃ tiraḥ purū cid arṇavaṃ jaganvān | pitur napātam ā dadhīta vedhā adhi kṣami prataraṃ dī..."
+        },
+        {
+          "sukta": 11,
+          "title": "Sukta 11",
+          "totalMantras": 62,
+          "citationPrefix": "18.11",
+          "verseRange": "18.11.1 - 18.11.12",
+          "previewText": "aṅgiraso naḥ pitaro navagvā atharvāṇo bhṛgavaḥ somyāsaḥ | teṣāṃ vayaṃ sumatau yajñiyānām api bhadre saumanase syāma ||"
+        },
+        {
+          "sukta": 12,
+          "title": "Sukta 12",
+          "totalMantras": 71,
+          "citationPrefix": "18.12",
+          "verseRange": "18.12.1 - 18.12.13",
+          "previewText": "apaśyaṃ yuvatīṃ nīyamānāṃ jīvāṃ mṛtebhyaḥ pariṇīyamānām | Bhatt. jīvā andhena yat tamasā prāvṛtāsīt prākto avācīm ana..."
+        },
+        {
+          "sukta": 13,
+          "title": "Sukta 13",
+          "totalMantras": 66,
+          "citationPrefix": "18.13",
+          "verseRange": "18.13.1 - 18.13.10",
+          "previewText": "ā rohata janitrīṃ jātavedasaḥ pitṛyānaiḥ saṃ va ā rohayāmi | avāḍ ḍhvyeṣitā havyavāha ījānaṃ yuktāḥ sukṛtaṃ dhatta lo..."
+        }
+      ]
+    },
+    {
+      "mandala": 19,
+      "title": "Kāṇḍa 19",
+      "totalSuktas": 14,
+      "totalMantras": 909,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 61,
+          "citationPrefix": "19.1",
+          "verseRange": "19.1.1 - 19.1.16",
+          "previewText": "doṣo gāya bṛhad gāya dyumad gāyātharvaṇa | stuhi devaṃ savitāram ||"
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 59,
+          "citationPrefix": "19.2",
+          "verseRange": "19.2.1 - 19.2.15",
+          "previewText": "namo devavadhebhyo namo rājavadhebhyaḥ | atho ye viśyānāṃ vadhās tebhyo mṛtyo namāṃsi te ||"
+        },
+        {
+          "sukta": 3,
+          "title": "Sukta 3",
+          "totalMantras": 58,
+          "citationPrefix": "19.3",
+          "verseRange": "19.3.1 - 19.3.15",
+          "previewText": "idāvatsarāya parivatsarāya saṃvatsarāya kṛṇutā bṛhan namaḥ | teṣāṃ vayaṃ sumatau yajñiyānām api bhadre saumanase syām..."
+        },
+        {
+          "sukta": 4,
+          "title": "Sukta 4",
+          "totalMantras": 67,
+          "citationPrefix": "19.4",
+          "verseRange": "19.4.1 - 19.4.19",
+          "previewText": "abhi tvendro varimataḥ purā tvāṃhūraṇebhyaḥ | hvayāmy ugraṃ cettaraṃ puruṇāmānam ekajam ||"
+        },
+        {
+          "sukta": 5,
+          "title": "Sukta 5",
+          "totalMantras": 64,
+          "citationPrefix": "19.5",
+          "verseRange": "19.5.1 - 19.5.17",
+          "previewText": "yantāsi yacchase hastam apa rakṣāṃsi sedhasi | prajāṃ dhanaṃ ca gṛhṇānaḥ parihasto abhūd ayam ||"
+        },
+        {
+          "sukta": 6,
+          "title": "Sukta 6",
+          "totalMantras": 67,
+          "citationPrefix": "19.6",
+          "verseRange": "19.6.1 - 19.6.20",
+          "previewText": "yathā sūryo nakṣatrāṇāṃ varcāṃsi yuvate divaḥ | evā sapatnānām ahaṃ varca indriyam ā dade ||"
+        },
+        {
+          "sukta": 7,
+          "title": "Sukta 7",
+          "totalMantras": 61,
+          "citationPrefix": "19.7",
+          "verseRange": "19.7.1 - 19.7.15",
+          "previewText": "yūpe garte vidveṣaṇaṃ devānāṃ varcasā kṛtam | agnir vām astv antarā yathā vāṃ na sahāsati ||"
+        },
+        {
+          "sukta": 8,
+          "title": "Sukta 8",
+          "totalMantras": 66,
+          "citationPrefix": "19.8",
+          "verseRange": "19.8.1 - 19.8.19",
+          "previewText": "agnī rakṣohā tigmas tigmaśṛṅgo hantu rakṣo nudatām arātim | apāghaśaṃsam asyatu ||"
+        },
+        {
+          "sukta": 9,
+          "title": "Sukta 9",
+          "totalMantras": 64,
+          "citationPrefix": "19.9",
+          "verseRange": "19.9.1 - 19.9.18",
+          "previewText": "somo rājā savitā ca rājā bhavo rājā bhuvanaṃ ca rājā | śarvo rājā śarma ca rājā ta u naḥ śarma yacchantu devāḥ ||"
+        },
+        {
+          "sukta": 10,
+          "title": "Sukta 10",
+          "totalMantras": 63,
+          "citationPrefix": "19.10",
+          "verseRange": "19.10.1 - 19.10.16",
+          "previewText": "abhi tvā śatapāśayā- -atho sahasrapāśayā | dāśo matsyam iva tīdena mayi badhnāmi te manaḥ ||"
+        },
+        {
+          "sukta": 11,
+          "title": "Sukta 11",
+          "totalMantras": 73,
+          "citationPrefix": "19.11",
+          "verseRange": "19.11.1 - 19.11.24",
+          "previewText": "somasya prāṇaḥ pavate purastād dakṣiṇata aindra ā vātu vātaḥ | asya diśo māturo yā pratīcī sa no devāḥ śivo astv iha ..."
+        },
+        {
+          "sukta": 12,
+          "title": "Sukta 12",
+          "totalMantras": 65,
+          "citationPrefix": "19.12",
+          "verseRange": "19.12.1 - 19.12.19",
+          "previewText": "prāgnaye vācam īraya vṛṣabhāya kṣitīnām | sa naḥ parṣad ati dviṣaḥ ||"
+        },
+        {
+          "sukta": 13,
+          "title": "Sukta 13",
+          "totalMantras": 67,
+          "citationPrefix": "19.13",
+          "verseRange": "19.13.1 - 19.13.18",
+          "previewText": "indraṃ vayaṃ vaṇijo havāmahe sa nas trātā pura etu prajānan | ghnann arātiṃ paripanthinaṃ mṛgaṃ sa īśāno dhanadā astu..."
+        },
+        {
+          "sukta": 14,
+          "title": "Sukta 14",
+          "totalMantras": 74,
+          "citationPrefix": "19.14",
+          "verseRange": "19.14.1 - 19.14.18",
+          "previewText": "iṣirā cāsy ajirā cāsi | prajāpateḥ samid asi saṃsitir nāma lomaśā | prajāpatiṣ ṭvayā pratiṣṭhākāmo 'ruruta sa praty a..."
+        }
+      ]
+    },
+    {
+      "mandala": 20,
+      "title": "Kāṇḍa 20",
+      "totalSuktas": 10,
+      "totalMantras": 634,
+      "suktas": [
+        {
+          "sukta": 1,
+          "title": "Sukta 1",
+          "totalMantras": 55,
+          "citationPrefix": "20.1",
+          "verseRange": "20.1.1 - 20.1.5",
+          "previewText": "dhītī vā ye anayan vāco agraṃ manasā vā ye avadann ṛtāni | tṛtīyena brahmaṇā vāvṛdhānās turīyeṇa manvata nāma dhenoḥ ||"
+        },
+        {
+          "sukta": 2,
+          "title": "Sukta 2",
+          "totalMantras": 53,
+          "citationPrefix": "20.2",
+          "verseRange": "20.2.1 - 20.2.13",
+          "previewText": "yan no agnir asanad yan na indro viśve yad devā marutaḥ svarkāḥ | tad asmabhyaṃ savitā satyadharmā sarasvaty anumatir..."
+        },
+        {
+          "sukta": 3,
+          "title": "Sukta 3",
+          "totalMantras": 54,
+          "citationPrefix": "20.3",
+          "verseRange": "20.3.1 - 20.3.4",
+          "previewText": "upa hvaya iti tisraḥ ||"
+        },
+        {
+          "sukta": 4,
+          "title": "Sukta 4",
+          "totalMantras": 64,
+          "citationPrefix": "20.4",
+          "verseRange": "20.4.1 - 20.4.4",
+          "previewText": "abhi prāgāt sahasrākṣo yuktvā śapatho ratham | śaptāram anvicchan yātu vṛka ivāvimato gṛham ||"
+        },
+        {
+          "sukta": 5,
+          "title": "Sukta 5",
+          "totalMantras": 58,
+          "citationPrefix": "20.5",
+          "verseRange": "20.5.1 - 20.5.8",
+          "previewText": "dūrād bheṣajam ābhṛtaṃ bahūny ati yojanā | apaśyam asyantaṃ rudraṃ na dṛṣṭo duṣkṛtaṃ karat ||"
+        },
+        {
+          "sukta": 6,
+          "title": "Sukta 6",
+          "totalMantras": 55,
+          "citationPrefix": "20.6",
+          "verseRange": "20.6.1 - 20.6.5",
+          "previewText": "divi tārā udabhi śryan sapta sūryasya raśmayaḥ | dhārāḥ samudriyā apas tās te śalyam acucyavuḥ ||"
+        },
+        {
+          "sukta": 7,
+          "title": "Sukta 7",
+          "totalMantras": 61,
+          "citationPrefix": "20.7",
+          "verseRange": "20.7.1 - 20.7.11",
+          "previewText": "viśvaṃ vivyajmi pṛthivīva puṣṭam āyadāyat prati gṛhṇāmy annam | vaiśvānarasya mahato mahimnā syonam asmabhyaṃ madhuma..."
+        },
+        {
+          "sukta": 8,
+          "title": "Sukta 8",
+          "totalMantras": 74,
+          "citationPrefix": "20.8",
+          "verseRange": "20.8.1 - 20.8.8",
+          "previewText": "indra jīva sūrya jīva devā jīvā jīvyāsam aham | sarvam āyur jīvyāsam ||"
+        },
+        {
+          "sukta": 9,
+          "title": "Sukta 9",
+          "totalMantras": 80,
+          "citationPrefix": "20.9",
+          "verseRange": "20.9.1 - 20.9.16",
+          "previewText": "ut tabhnāmi gavāṃ kṣīram ud rathaṃ rathavāhanam | ut tabdhā asmākaṃ vīrā mayi gāvaś ca gopatau ||"
+        },
+        {
+          "sukta": 10,
+          "title": "Sukta 10",
+          "totalMantras": 80,
+          "citationPrefix": "20.10",
+          "verseRange": "20.10.1 - 20.10.10",
+          "previewText": "veda vai te takman nāma viśvaso nāma vā asi | asamaratho nāma te pitā hārṣī nāma takman te mātā śimidā nāma te svasā ||"
+        }
+      ]
+    }
+  ]
+}
