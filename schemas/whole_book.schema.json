@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/crine-in/all-religious-texts/main/schemas/whole_book.schema.json",
+  "title": "WholeBook",
+  "type": "object",
+  "required": ["id", "title", "religion", "collection", "license", "text"],
+  "properties": {
+    "id": { "type": "string" },
+    "title": { "type": "string" },
+    "book": { "type": ["string", "null"] },
+    "originalTitle": { "type": ["string", "null"] },
+    "alternateTitles": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "religion": { "type": "string" },
+    "collection": { "type": "string" },
+    "language": { "type": ["string", "null"] },
+    "script": { "type": ["string", "null"] },
+    "targetLanguage": { "type": ["string", "null"] },
+    "targetScript": { "type": ["string", "null"] },
+    "translator": { "type": ["string", "null"] },
+    "year": { "type": ["integer", "null"] },
+    "author": { "type": ["string", "null"] },
+    "traditionalAttribution": { "type": ["string", "null"] },
+    "editor": { "type": ["string", "null"] },
+    "publisher": { "type": ["string", "null"] },
+    "publicationDate": { "type": ["string", "null"] },
+    "estimatedDate": { "type": ["string", "null"] },
+    "era": { "type": ["string", "null"] },
+    "originPlace": { "type": ["string", "null"] },
+    "canonicalStatus": { "type": ["string", "null"] },
+    "license": { "type": "string" },
+    "licenseUrl": { "type": ["string", "null"] },
+    "source": { "type": ["string", "null"] },
+    "sourceUrl": { "type": ["string", "null"] },
+    "notes": { "type": ["string", "null"] },
+    "fullNotes": { "type": ["string", "null"] },
+    "referenceSystem": { "type": ["string", "null"] },
+    "keywords": {
+      "type": ["array", "null"],
+      "items": { "type": "string" }
+    },
+    "totalLines": { "type": ["integer", "null"] },
+    "totalWords": { "type": ["integer", "null"] },
+    "text": { "type": "string" }
+  },
+  "additionalProperties": false
+}

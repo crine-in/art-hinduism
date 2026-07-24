@@ -31,7 +31,11 @@
     "sourceUrl": { "type": ["string", "null"] },
     "provenance": { "type": "string" },
     "retrievalDate": { "type": "string" },
-    "checksum": { "type": ["string", "null"] },
+    "referenceSystem": { "type": ["string", "null"] },
+    "keywords": {
+      "type": ["array", "null"],
+      "items": { "type": "string" }
+    },
     "verseCount": { "type": ["integer", "null"] },
     "lastUpdated": { "type": ["string", "null"] }
   },

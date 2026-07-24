@@ -31,5 +31,7 @@ node_modules/
 .DS_Store
 Thumbs.db
 
-# Temporary
+# misc
 temp/
+whole/
+*.7z

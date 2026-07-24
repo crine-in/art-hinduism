@@ -41,6 +41,24 @@ def validate_schemas(repo_root: Path) -> bool:
                     print(f"❌ Schema validation failed for translation file {tf.relative_to(repo_root)}: {e}")
                     all_valid = False
 
+    # Validate whole scripture files against whole_book.schema.json
+    whole_schema = schemas.get("whole_book.schema.json")
+    if whole_schema:
+        whole_validator = jsonschema.Draft202012Validator(whole_schema)
+        whole_files = list((repo_root / "whole").glob("**/whole.json")) + list(
+            (repo_root / "whole").glob("**/translations/**/*.json")
+        )
+        if whole_files:
+            print(f"Validating {len(whole_files)} whole scripture file(s) against whole_book.schema.json...")
+            for wf in whole_files:
+                try:
+                    with open(wf, "r", encoding="utf-8") as f:
+                        data = json.load(f)
+                    whole_validator.validate(data)
+                except Exception as e:
+                    print(f"❌ Schema validation failed for whole file {wf.relative_to(repo_root)}: {e}")
+                    all_valid = False
+
     if all_valid:
         print("✅ Schema validation completed successfully.")
     return all_valid

@@ -1,0 +1,17 @@
+{
+  "id": "whole:hinduism:vedic-canon:isopanisad:sanskrit-original",
+  "title": "Īśopaniṣad",
+  "originalTitle": "Īśāvāsyopaniṣad",
+  "alternateTitles": ["Isopanisad", "Isavasya Upanisad"],
+  "religion": "Hinduism",
+  "collection": "Vedic Canon",
+  "book": "Īśopaniṣad",
+  "language": "Sanskrit",
+  "script": "IAST",
+  "author": "Traditional Vedic Seers",
+  "license": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+  "referenceSystem": "IsUp_n = mūla text",
+  "totalLines": 75,
+  "totalWords": 450,
+  "text": "oṃ pūrṇam adaḥ pūrṇam idaṃ pūrṇāt pūrṇam udacyate /\npūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate //\noṃ śāntiḥ śāntiḥ śāntiḥ /"
+}

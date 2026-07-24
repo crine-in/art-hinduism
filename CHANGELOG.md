@@ -4,6 +4,22 @@ All notable changes to the **`art-hinduism`** repository will be documented in t
 
 The project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.0] - 2026-07-25
+
+### Added
+* **Whole Scripture Dataset Architecture (`whole/`)**:
+  * Ingested and structured 802 complete, un-split scripture datasets (`whole.json`) with line-break preserved text (`\n`) and essential reading parameters.
+  * Added `schemas/whole_book.schema.json` (Draft 2020-12) and `templates/whole_book.json`.
+  * TEI Whole Scripture Parser (`tools/parsers/tei_whole_parser.py`) with automatic single-line reference system extraction (`referenceSystem`) and `--`-split keyword term array extraction (`keywords`).
+  * Whole Dataset Builder & Indexer (`tools/build_whole_datasets.py`) with multi-process pool, generating `whole.json`, `metadata.json`, `LICENSE`, `ATTRIBUTION.md`, `sources.md`, `whole/index.json`, `whole/index.db`, `whole/metrics.json`, `whole/README.md`, `whole/LICENSE`, and `whole/ATTRIBUTION.md`.
+  * Whole Indic Transliteration Engine (`tools/generate_whole_transliterations.py`) supporting line-by-line transliteration into 11 Indic scripts (Devanagari, Bengali, Grantha, Gujarati, Gurmukhi, Kannada, Malayalam, Odia, Telugu, Sharada, Tamil).
+  * Corpus metrics aggregation in `whole/metrics.json` tracking total scriptures (802), lines (2,180,022), words (17,738,936), religion breakdowns, collection counts, and keyword frequencies.
+  * Comprehensive test suite in `tests/test_tei_whole_parser.py` testing TEI whole parsing, schema compliance, dataset building, and Indic transliteration.
+
+### Changed
+* Reduced data redundancy in `whole.json` by maintaining comprehensive cataloging metadata in `metadata.json`.
+* Removed checksum calculation and `checksum` properties across whole dataset schemas, parsers, and build tools.
+
 ---
 
 ## [1.2.0] - 2026-07-25

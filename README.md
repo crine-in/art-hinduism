@@ -15,9 +15,10 @@
 **`art-hinduism`** is the canonical Hindu scripture dataset repository within the **All Religious Texts (ART)** ecosystem maintained by CRINE. It hosts structured, open, and machine-readable digital archives of Hindu scriptures including the Upanishads, Bhagavad Gita, Vedas, Epics (Ramayana, Mahabharata), and Puranas in original languages (Sanskrit IAST/Devanagari) alongside verified translations and commentaries.
 
 It provides a standardized, pre-configured foundation including:
-* **Standard Data Layout**: `data/<collection>/<book>/` hierarchy
-* **Reusable Templates**: Pre-made `metadata.json`, `sources.md`, `LICENSE`, and `ATTRIBUTION.md` templates in `templates/`
-* **JSON Schemas**: Draft 2020-12 schemas in `schemas/` inherited from `all-religious-texts`
+* **Standard Data Layout**: Verse-level split data in `data/<collection>/<book>/` and whole un-split datasets in `whole/<collection>/<book>/`
+* **Whole Scripture Corpus**: 802 un-split scripture datasets in `whole/` with structured metadata, reference systems, and multi-script Indic transliterations
+* **Reusable Templates**: Pre-made `metadata.json`, `whole_book.json`, `book.json`, `verse.json`, `sources.md`, `LICENSE`, and `ATTRIBUTION.md` templates in `templates/`
+* **JSON Schemas**: Draft 2020-12 schemas in `schemas/` (`whole_book.schema.json`, `verse.schema.json`, `book.schema.json`, `metadata.schema.json`)
 * **Zero-Config Validation Suite**: CLI validators in `validators/` requiring no code modifications
 * **GitHub Actions Workflows**: Automated validation, linting, and release packaging in `.github/workflows/`
 * **AI IDE Instructions**: Full assistant guidelines in `GEMINI.md`, `SKILLS.md`, `.cursorrules`, and `CLAUDE.md`
@@ -35,22 +36,16 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 2. Add a New Hindu Scripture Dataset
+### 2. Build Whole Scripture Datasets & Transliterations
 
 ```bash
-# 1. Copy book template to target collection and book directory
-mkdir -p data/principal-upanishads/isha-upanishad
-cp -r templates/* data/principal-upanishads/isha-upanishad/
+# Build whole un-split scripture datasets from TEI XML files into whole/
+python3 tools/build_whole_datasets.py --force
 
-# 2. Enrich draft dataset to verse.schema.json
-python3 tools/enrich_dataset.py \
-  --input isha_draft.json \
-  --output data/principal-upanishads/isha-upanishad/original.json \
-  --book "Isha Upanishad" \
-  --collection "Principal Upanishads" \
-  --religion "Hinduism"
+# Generate Indic script transliterations for whole datasets
+python3 tools/generate_whole_transliterations.py --force
 
-# 3. Run validation suite
+# Run validation suite and test suite
 python3 validators/run_all.py
 pytest tests/
 ```
@@ -76,39 +71,37 @@ art-hinduism/
 │   └── ISSUE_TEMPLATE/       # GitHub issue templates
 ├── templates/                # Reusable metadata & scripture templates
 │   ├── metadata.json         # Folder metadata template
+│   ├── whole_book.json       # Whole scripture template
 │   ├── book.json             # Book structural metadata template
 │   ├── verse.json            # Verse schema template
 │   ├── translation.json      # Translation template
-│   ├── commentary.json       # Commentary template
-│   ├── LICENSE               # Text edition license template
-│   ├── ATTRIBUTION.md        # Attribution template
-│   ├── sources.md            # Bibliography template
-│   └── README.md             # Dataset directory guide template
-├── data/                     # Scripture dataset directory (e.g. principal-upanishads)
-│   └── example-collection/
-│       └── example-book/
-│           ├── metadata.json
-│           ├── LICENSE
-│           ├── ATTRIBUTION.md
-│           ├── sources.md
-│           ├── original.json
-│           └── translations/
-│               └── english/
-│                   └── example.json
-├── schemas/                  # Draft 2020-12 JSON Schemas
-├── metadata/                 # Master registries & categorized GRETIL indexes
-│   ├── gretil_stats.json     # Master statistics summary (total texts, chapters, verses, breakdowns)
-│   ├── veda_index.json       # Master index for processed Vedic canon datasets
-│   ├── canons/               # Sub-indexes grouped by canon (buddhist-canon, vedic-canon, etc.)
-│   ├── categories/           # Sub-indexes grouped by category (sūtra, veda, bhāṣya, etc.)
-│   ├── languages/            # Sub-indexes grouped by language
-│   ├── religions/            # Sub-indexes grouped by religion (hinduism, buddhism, jainism)
-│   └── transliterations/     # Sub-indexes grouped by transliteration scheme
+│   └── ...
+├── whole/                    # Complete, un-split scripture corpus (802 scriptures)
+│   ├── index.json            # Master JSON index database (802 records)
+│   ├── index.db              # Master SQLite index database
+│   ├── metrics.json          # Aggregated corpus stats & keyword metrics
+│   ├── README.md             # Whole corpus documentation
+│   ├── LICENSE               # General whole corpus license
+│   ├── ATTRIBUTION.md        # Master whole corpus attributions
+│   └── <collection-slug>/<book-slug>/
+│       ├── whole.json        # Clean whole text (Sanskrit IAST)
+│       ├── metadata.json     # Complete cataloging metadata & keywords
+│       ├── LICENSE           # Text edition license
+│       ├── ATTRIBUTION.md    # Source notes & editor attributions
+│       └── translations/<script>/indic-transliteration.json
+├── data/                     # Verse-level split scripture dataset directory
+├── schemas/                  # Draft 2020-12 JSON Schemas (whole_book.schema.json, etc.)
+├── metadata/                 # Master registries & GRETIL index metadata
 ├── validators/               # Python CLI validation suite
-├── tools/                    # Conversion & enrichment utilities
-├── scripts/                  # Formatting, checksums, renumbering scripts
+├── tools/                    # Conversion, whole dataset builder & transliteration tools
+│   ├── parsers/
+│   │   ├── tei_whole_parser.py  # TEI XML Whole Scripture Parser
+│   │   └── veda_parser.py
+│   ├── build_whole_datasets.py  # Whole Dataset Builder & Indexer
+│   └── generate_whole_transliterations.py  # Whole Indic Transliteration Engine
+├── scripts/                  # Formatting and maintenance scripts
 ├── docs/                     # Detailed developer guides
-├── tests/                    # Automated unit tests
+├── tests/                    # Automated unit tests (test_tei_whole_parser.py, etc.)
 └── GEMINI.md                 # AI IDE context & instructions
 ```
 
