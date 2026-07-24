@@ -1,0 +1,46 @@
+{
+  "total_texts": 802,
+  "total_chapters": 40661,
+  "total_verses": 1362158,
+  "breakdown": {
+    "commentary_status": {
+      "mula_text": 685,
+      "commentary": 117
+    },
+    "religions": {
+      "Buddhism": 359,
+      "Hinduism": 442,
+      "Jainism": 1
+    },
+    "canons": {
+      "Buddhist Canon": 359,
+      "Śāstra & Philosophy": 166,
+      "Kāvya & Literature": 115,
+      "Vedic Canon": 66,
+      "Vaiṣṇava Āgamas & Tantras": 28,
+      "Purāṇas": 24,
+      "Śaiva Āgamas & Tantras": 32,
+      "General Scripture": 11,
+      "Jaina Canon": 1
+    },
+    "categories": {
+      "Stotra": 21,
+      "Text": 490,
+      "Bhāṣya (Commentary)": 117,
+      "Kāvya": 16,
+      "Sūtra": 97,
+      "Saṃhitā": 12,
+      "Veda": 4,
+      "Gītā": 3,
+      "Tantra": 18,
+      "Purāṇa": 23,
+      "Upaniṣad": 1
+    },
+    "languages": {
+      "Sanskrit": 802
+    },
+    "transliterations": {
+      "IAST (International Alphabet of Sanskrit Transliteration)": 802
+    }
+  }
+}

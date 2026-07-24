@@ -1,0 +1,24 @@
+[
+  {
+    "id": "haribhadrasuri-zastravarttasamuccaya",
+    "title": "Śāstravārttāsamuccaya",
+    "religion": "Jainism",
+    "canon": "Jaina Canon",
+    "category": "Text",
+    "is_commentary": false,
+    "commentator": null,
+    "language": "Sanskrit",
+    "author": "Haribhadrasūri",
+    "editor": "Yasunori Harada, Reinhold Grünendahl, Maximilian Mehner",
+    "source": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "publication_date": "2020-07-31",
+    "notes": "Haribhadrasuri: Sastravartasamuccaya,\nBased on the ed. by K. K. Dixit,\nAhmedabad : Lalbhai Dalpatbhai Bharatiya 1969\n(L. D. Series, 22)\n\nInput by Yasunori Harada\n\nTEXT WITH PADA MARKERS\n\nThe text has a number of metrical irregularities.\nPada boundaries frequently cut through compounds, and sometimes through words.\n\nREFERENCE SYSTEM:\nThe reference includes the stabaka and section nos.\nof K.K. Dixit's Viṣayasūcī [bracketed]:\n\nHSvs_[n.n]nnn = [stabaka.section]verse",
+    "transliteration": "IAST (International Alphabet of Sanskrit Transliteration)",
+    "translation_available": false,
+    "chapter_count": 41,
+    "verse_count": 1403,
+    "file": "1_sanskr/tei/sa_haribhadrasUri-zAstravArttAsamuccaya.xml"
+  }
+]

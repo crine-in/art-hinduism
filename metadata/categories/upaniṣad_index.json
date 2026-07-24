@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zira-upanisad",
+    "title": "Śira-upaniṣad (= Atharvaśira-upanisad)",
+    "religion": "Hinduism",
+    "canon": "Vedic Canon",
+    "category": "Upaniṣad",
+    "is_commentary": false,
+    "commentator": null,
+    "language": "Sanskrit",
+    "author": "Unknown",
+    "editor": "Oliver Hellwig, Reinhold Grünendahl, Maximilian Mehner",
+    "source": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "publication_date": "2020-07-31",
+    "notes": "Sira-Upanisad (= Atharvasira-Upanisad)\nBased on the edition by Ramamaya Tarkaratna\nIn: The Atharvana-Upanishads. Calcutta: Ganesha Press, 1872\n(Bibliotheca Indica ; 76)\n\nInput by Oliver Hellwig",
+    "transliteration": "IAST (International Alphabet of Sanskrit Transliteration)",
+    "translation_available": false,
+    "chapter_count": 1,
+    "verse_count": 6,
+    "file": "1_sanskr/tei/sa_zira-upaniSad.xml"
+  }
+]
