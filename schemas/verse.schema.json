@@ -7,17 +7,10 @@
   "required": [
     "id",
     "externalId",
-    "religion",
-    "collection",
-    "book",
     "chapter",
     "verse",
     "citation",
-    "language",
-    "script",
-    "text",
-    "license",
-    "source"
+    "text"
   ],
   "properties": {
     "id": { "type": "string" },

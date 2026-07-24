@@ -3,15 +3,18 @@
   "$id": "https://raw.githubusercontent.com/crine-in/all-religious-texts/main/schemas/book.schema.json",
   "title": "Book",
   "type": "object",
-  "required": ["id", "title", "religion", "collection", "originalLanguage", "license"],
+  "required": ["id", "title", "religion", "collection", "license"],
   "properties": {
     "id": { "type": "string" },
     "title": { "type": "string" },
+    "book": { "type": ["string", "null"] },
     "originalTitle": { "type": ["string", "null"] },
     "alternateTitles": { "type": "array", "items": { "type": "string" } },
     "religion": { "type": "string" },
     "collection": { "type": "string" },
-    "originalLanguage": { "type": "string" },
+    "language": { "type": ["string", "null"] },
+    "script": { "type": ["string", "null"] },
+    "originalLanguage": { "type": ["string", "null"] },
     "originalScript": { "type": ["string", "null"] },
     "author": { "type": ["string", "null"] },
     "traditionalAttribution": { "type": ["string", "null"] },
@@ -22,8 +25,29 @@
     "totalVerses": { "type": ["integer", "null"] },
     "canonicalStatus": { "type": ["string", "null"] },
     "license": { "type": "string" },
+    "source": { "type": ["string", "null"] },
     "sourceUrl": { "type": ["string", "null"] },
-    "checksum": { "type": ["string", "null"] }
+    "checksum": { "type": ["string", "null"] },
+    "chapters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["number", "verses"],
+        "properties": {
+          "number": { "type": "integer" },
+          "title": { "type": ["string", "null"] },
+          "type": { "type": ["string", "null"] },
+          "totalVerses": { "type": ["integer", "null"] },
+          "verses": {
+            "type": "array",
+            "items": {
+              "$ref": "verse.schema.json"
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
   },
   "additionalProperties": false
 }

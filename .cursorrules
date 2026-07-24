@@ -1,7 +1,7 @@
-# Cursor AI Rules for art-template
+# Cursor AI Rules for art-hinduism
 
 # Project Context
-This repo is the official starter template for All Religious Texts (ART) dataset repositories by CRINE (www.crine.in).
+This repo contains official Hindu scripture datasets (Upanishads, Vedas, Gita, Puranas, etc.) for All Religious Texts (ART) by CRINE (www.crine.in).
 
 # Key Rules
 1. Templates live in templates/, schemas in schemas/, validators in validators/.

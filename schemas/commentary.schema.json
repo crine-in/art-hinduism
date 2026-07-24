@@ -7,6 +7,7 @@
   "properties": {
     "id": { "type": "string" },
     "verseId": { "type": "string" },
+    "commentaryName": { "type": ["string", "null"] },
     "commentator": { "type": "string" },
     "school": { "type": ["string", "null"] },
     "language": { "type": "string" },

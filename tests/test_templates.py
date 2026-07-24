@@ -25,6 +25,7 @@ def test_example_dataset_validity():
     with open(example_orig, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    assert isinstance(data, list)
-    assert len(data) == 3
-    assert data[0]["citation"] == "1.1"
+    assert isinstance(data, dict)
+    assert data["totalVerses"] == 3
+    assert len(data["chapters"]) == 1
+    assert data["chapters"][0]["verses"][0]["citation"] == "1.1"

@@ -1,10 +1,10 @@
-# art-template
+# art-hinduism
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Build & Validation](https://github.com/crine-in/art-template/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml)
-[![Ecosystem Standard](https://img.shields.io/badge/CRINE-Ecosystem%20Template-emerald.svg)](https://www.crine.in)
+[![Build & Validation](https://github.com/crine-in/art-hinduism/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml)
+[![Ecosystem Standard](https://img.shields.io/badge/CRINE-Ecosystem%20Dataset-emerald.svg)](https://www.crine.in)
 
-> **Official Repository Starter Template for the All Religious Texts (ART) Ecosystem.**
+> **Official Hindu Scripture Dataset Repository for the All Religious Texts (ART) Ecosystem.**
 >
 > Maintained by [**CRINE**](https://www.crine.in) ([github.com/crine-in](https://github.com/crine-in)).
 
@@ -12,7 +12,7 @@
 
 ## Overview
 
-**`art-template`** is the canonical starter template for initializing any new scripture dataset repository across the **All Religious Texts (ART)** ecosystem (such as [`art-hinduism`](https://github.com/crine-in/art-hinduism), [`art-buddhism`](https://github.com/crine-in/art-buddhism), [`art-christianity`](https://github.com/crine-in/art-christianity), [`art-islam`](https://github.com/crine-in/art-islam), [`art-judaism`](https://github.com/crine-in/art-judaism), [`art-sikhism`](https://github.com/crine-in/art-sikhism), etc.).
+**`art-hinduism`** is the canonical Hindu scripture dataset repository within the **All Religious Texts (ART)** ecosystem maintained by CRINE. It hosts structured, open, and machine-readable digital archives of Hindu scriptures including the Upanishads, Bhagavad Gita, Vedas, Epics (Ramayana, Mahabharata), and Puranas in original languages (Sanskrit IAST/Devanagari) alongside verified translations and commentaries.
 
 It provides a standardized, pre-configured foundation including:
 * **Standard Data Layout**: `data/<collection>/<book>/` hierarchy
@@ -24,21 +24,18 @@ It provides a standardized, pre-configured foundation including:
 
 ---
 
-## How to Create a New Repository from this Template
+## Repository Setup & Usage
 
-### 1. Create Repository on GitHub
-Click **"Use this template"** $\longrightarrow$ **"Create a new repository"** on GitHub, naming your repository following the ecosystem standard (e.g. `art-hinduism`, `art-buddhism`, `art-taoism`).
-
-### 2. Clone & Initial Configuration
+### 1. Clone & Environment Setup
 ```bash
-git clone https://github.com/crine-in/art-<tradition>.git
-cd art-<tradition>
+git clone https://github.com/crine-in/art-hinduism.git
+cd art-hinduism
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 3. Add a New Scripture Dataset
+### 2. Add a New Hindu Scripture Dataset
 
 ```bash
 # 1. Copy book template to target collection and book directory
@@ -63,14 +60,14 @@ pytest tests/
 ## Directory Structure
 
 ```text
-art-template/
-├── README.md                 # Primary template documentation & setup guide
-├── LICENSE                   # MIT License for template infrastructure
+art-hinduism/
+├── README.md                 # Primary repository documentation & setup guide
+├── LICENSE                   # MIT License for codebase & tools
 ├── ATTRIBUTION.md            # Provenance and source credits
 ├── CONTRIBUTING.md           # Contribution guidelines for this repository
 ├── CODE_OF_CONDUCT.md        # Community Code of Conduct
 ├── SECURITY.md               # Vulnerability reporting procedures
-├── CHANGELOG.md              # Template release history
+├── CHANGELOG.md              # Dataset release history
 ├── .gitignore                # Git ignore patterns
 ├── pyproject.toml            # Python packaging and tool configuration
 ├── requirements.txt          # Dependencies for validation suite & tools
@@ -87,7 +84,7 @@ art-template/
 │   ├── ATTRIBUTION.md        # Attribution template
 │   ├── sources.md            # Bibliography template
 │   └── README.md             # Dataset directory guide template
-├── data/                     # Fictional example dataset directory
+├── data/                     # Scripture dataset directory (e.g. principal-upanishads)
 │   └── example-collection/
 │       └── example-book/
 │           ├── metadata.json
@@ -123,7 +120,7 @@ pytest tests/
 
 ## Licensing
 
-* **Template Infrastructure & Tooling**: [MIT License](LICENSE).
+* **Infrastructure & Tooling**: [MIT License](LICENSE).
 * **Metadata & Specifications**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 * **Imported Scriptures**: Retain their original public-domain or open CC licenses.
 

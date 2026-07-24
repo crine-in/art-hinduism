@@ -1,4 +1,42 @@
 [
-  { "id": "example-collection", "name": "Example Collection", "religion": "Generic" },
-  { "id": "principal-upanishads", "name": "Principal Upanishads", "religion": "Hinduism" }
+  {
+    "id": "example-collection",
+    "name": "Example Collection",
+    "religion": "Generic"
+  },
+  {
+    "id": "principal-upanishads",
+    "name": "Principal Upanishads",
+    "religion": "Hinduism"
+  },
+  {
+    "id": "vedic-canon",
+    "name": "Vedic Canon",
+    "religion": "Hinduism"
+  },
+  {
+    "id": "śāstra-philosophy",
+    "name": "Śāstra & Philosophy",
+    "religion": "Hinduism"
+  },
+  {
+    "id": "buddhist-canon",
+    "name": "Buddhist Canon",
+    "religion": "Hinduism"
+  },
+  {
+    "id": "kāvya-literature",
+    "name": "Kāvya & Literature",
+    "religion": "Hinduism"
+  },
+  {
+    "id": "sastra-philosophy",
+    "name": "Śāstra & Philosophy",
+    "religion": "Hinduism"
+  },
+  {
+    "id": "kavya-literature",
+    "name": "Kāvya & Literature",
+    "religion": "Hinduism"
+  }
 ]

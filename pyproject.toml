@@ -3,9 +3,9 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "art-template"
+name = "art-hinduism"
 version = "1.0.0"
-description = "Official repository template for All Religious Texts (ART) dataset repositories."
+description = "All Religious Texts (ART) - Hinduism Scripture Dataset Repository."
 authors = [{ name = "CRINE", email = "dev@crine.in" }]
 readme = "README.md"
 requires-python = ">=3.10"
