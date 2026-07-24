@@ -96,7 +96,14 @@ art-hinduism/
 │               └── english/
 │                   └── example.json
 ├── schemas/                  # Draft 2020-12 JSON Schemas
-├── metadata/                 # Master registries (religions, collections, languages, etc.)
+├── metadata/                 # Master registries & categorized GRETIL indexes
+│   ├── gretil_stats.json     # Master statistics summary (total texts, chapters, verses, breakdowns)
+│   ├── veda_index.json       # Master index for processed Vedic canon datasets
+│   ├── canons/               # Sub-indexes grouped by canon (buddhist-canon, vedic-canon, etc.)
+│   ├── categories/           # Sub-indexes grouped by category (sūtra, veda, bhāṣya, etc.)
+│   ├── languages/            # Sub-indexes grouped by language
+│   ├── religions/            # Sub-indexes grouped by religion (hinduism, buddhism, jainism)
+│   └── transliterations/     # Sub-indexes grouped by transliteration scheme
 ├── validators/               # Python CLI validation suite
 ├── tools/                    # Conversion & enrichment utilities
 ├── scripts/                  # Formatting, checksums, renumbering scripts

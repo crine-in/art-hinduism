@@ -269,6 +269,7 @@ def main():
             "file": "sa_paippalAdasaMhitA.xml",
             "collection": "Vedic Canon",
         },
+        
         {
             "slug": "vedanga-jyotisa",
             "title": "Vedāṅga-Jyotiṣa",
